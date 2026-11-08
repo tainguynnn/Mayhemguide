@@ -1,0 +1,2797 @@
+[
+  {
+    "id": 266,
+    "slug": "Aatrox",
+    "name": "Aatrox",
+    "title": "the Darkin Blade",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aatrox.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/266.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+  },
+  {
+    "id": 103,
+    "slug": "Ahri",
+    "name": "Ahri",
+    "title": "the Nine-Tailed Fox",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ahri.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+  },
+  {
+    "id": 84,
+    "slug": "Akali",
+    "name": "Akali",
+    "title": "the Rogue Assassin",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akali.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/84.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg"
+  },
+  {
+    "id": 166,
+    "slug": "Akshan",
+    "name": "Akshan",
+    "title": "the Rogue Sentinel",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Akshan.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/166.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg"
+  },
+  {
+    "id": 12,
+    "slug": "Alistar",
+    "name": "Alistar",
+    "title": "the Minotaur",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Alistar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/12.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg"
+  },
+  {
+    "id": 799,
+    "slug": "Ambessa",
+    "name": "Ambessa",
+    "title": "Matriarch of War",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ambessa.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/799.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg"
+  },
+  {
+    "id": 32,
+    "slug": "Amumu",
+    "name": "Amumu",
+    "title": "the Sad Mummy",
+    "roles": [
+      "Jungle",
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Amumu.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/32.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg"
+  },
+  {
+    "id": 34,
+    "slug": "Anivia",
+    "name": "Anivia",
+    "title": "the Cryophoenix",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Anivia.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/34.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg"
+  },
+  {
+    "id": 1,
+    "slug": "Annie",
+    "name": "Annie",
+    "title": "the Dark Child",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Annie.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg"
+  },
+  {
+    "id": 523,
+    "slug": "Aphelios",
+    "name": "Aphelios",
+    "title": "the Weapon of the Faithful",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aphelios.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/523.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg"
+  },
+  {
+    "id": 22,
+    "slug": "Ashe",
+    "name": "Ashe",
+    "title": "the Frost Archer",
+    "roles": [
+      "ADC",
+      "Support"
+    ],
+    "classes": [
+      "Marksman",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ashe.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/22.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+  },
+  {
+    "id": 136,
+    "slug": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "The Star Forger",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/AurelionSol.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/136.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg"
+  },
+  {
+    "id": 893,
+    "slug": "Aurora",
+    "name": "Aurora",
+    "title": "the Witch Between Worlds",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Aurora.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/893.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg"
+  },
+  {
+    "id": 268,
+    "slug": "Azir",
+    "name": "Azir",
+    "title": "the Emperor of the Sands",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage",
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Azir.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/268.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg"
+  },
+  {
+    "id": 432,
+    "slug": "Bard",
+    "name": "Bard",
+    "title": "the Wandering Caretaker",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Bard.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/432.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg"
+  },
+  {
+    "id": 200,
+    "slug": "Belveth",
+    "name": "Bel'Veth",
+    "title": "the Empress of the Void",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Belveth.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/200.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg"
+  },
+  {
+    "id": 53,
+    "slug": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "the Great Steam Golem",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Blitzcrank.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/53.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg"
+  },
+  {
+    "id": 63,
+    "slug": "Brand",
+    "name": "Brand",
+    "title": "the Burning Vengeance",
+    "roles": [
+      "Jungle",
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Brand.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/63.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg"
+  },
+  {
+    "id": 201,
+    "slug": "Braum",
+    "name": "Braum",
+    "title": "the Heart of the Freljord",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Braum.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/201.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg"
+  },
+  {
+    "id": 233,
+    "slug": "Briar",
+    "name": "Briar",
+    "title": "the Restrained Hunger",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Briar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/233.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_0.jpg"
+  },
+  {
+    "id": 51,
+    "slug": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "the Sheriff of Piltover",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Caitlyn.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/51.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg"
+  },
+  {
+    "id": 164,
+    "slug": "Camille",
+    "name": "Camille",
+    "title": "the Steel Shadow",
+    "roles": [
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Camille.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/164.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg"
+  },
+  {
+    "id": 69,
+    "slug": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "the Serpent's Embrace",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Cassiopeia.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/69.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg"
+  },
+  {
+    "id": 31,
+    "slug": "Chogath",
+    "name": "Cho'Gath",
+    "title": "the Terror of the Void",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Chogath.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/31.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg"
+  },
+  {
+    "id": 42,
+    "slug": "Corki",
+    "name": "Corki",
+    "title": "the Daring Bombardier",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Corki.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/42.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg"
+  },
+  {
+    "id": 122,
+    "slug": "Darius",
+    "name": "Darius",
+    "title": "the Hand of Noxus",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Darius.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/122.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg"
+  },
+  {
+    "id": 131,
+    "slug": "Diana",
+    "name": "Diana",
+    "title": "Scorn of the Moon",
+    "roles": [
+      "Jungle",
+      "Mid"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Diana.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/131.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg"
+  },
+  {
+    "id": 36,
+    "slug": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "the Madman of Zaun",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/DrMundo.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/36.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg"
+  },
+  {
+    "id": 119,
+    "slug": "Draven",
+    "name": "Draven",
+    "title": "the Glorious Executioner",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Draven.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/119.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg"
+  },
+  {
+    "id": 245,
+    "slug": "Ekko",
+    "name": "Ekko",
+    "title": "the Boy Who Shattered Time",
+    "roles": [
+      "Jungle",
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ekko.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/245.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg"
+  },
+  {
+    "id": 60,
+    "slug": "Elise",
+    "name": "Elise",
+    "title": "the Spider Queen",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Elise.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/60.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg"
+  },
+  {
+    "id": 28,
+    "slug": "Evelynn",
+    "name": "Evelynn",
+    "title": "Agony's Embrace",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Evelynn.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/28.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg"
+  },
+  {
+    "id": 81,
+    "slug": "Ezreal",
+    "name": "Ezreal",
+    "title": "the Prodigal Explorer",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ezreal.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/81.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "the Ancient Fear",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiddlesticks.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/9.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg"
+  },
+  {
+    "id": 114,
+    "slug": "Fiora",
+    "name": "Fiora",
+    "title": "the Grand Duelist",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fiora.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/114.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg"
+  },
+  {
+    "id": 105,
+    "slug": "Fizz",
+    "name": "Fizz",
+    "title": "the Tidal Trickster",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Fizz.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/105.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "Galio",
+    "name": "Galio",
+    "title": "the Colossus",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Galio.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/3.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg"
+  },
+  {
+    "id": 41,
+    "slug": "Gangplank",
+    "name": "Gangplank",
+    "title": "the Saltwater Scourge",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gangplank.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/41.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg"
+  },
+  {
+    "id": 86,
+    "slug": "Garen",
+    "name": "Garen",
+    "title": "The Might of Demacia",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Garen.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/86.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg"
+  },
+  {
+    "id": 150,
+    "slug": "Gnar",
+    "name": "Gnar",
+    "title": "the Missing Link",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gnar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/150.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg"
+  },
+  {
+    "id": 79,
+    "slug": "Gragas",
+    "name": "Gragas",
+    "title": "the Rabble Rouser",
+    "roles": [
+      "Jungle",
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gragas.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/79.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg"
+  },
+  {
+    "id": 104,
+    "slug": "Graves",
+    "name": "Graves",
+    "title": "the Outlaw",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Graves.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/104.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg"
+  },
+  {
+    "id": 887,
+    "slug": "Gwen",
+    "name": "Gwen",
+    "title": "The Hallowed Seamstress",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Gwen.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/887.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg"
+  },
+  {
+    "id": 120,
+    "slug": "Hecarim",
+    "name": "Hecarim",
+    "title": "the Shadow of War",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hecarim.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/120.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg"
+  },
+  {
+    "id": 74,
+    "slug": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "the Revered Inventor",
+    "roles": [
+      "Mid",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Heimerdinger.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/74.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg"
+  },
+  {
+    "id": 910,
+    "slug": "Hwei",
+    "name": "Hwei",
+    "title": "the Visionary",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Hwei.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/910.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg"
+  },
+  {
+    "id": 420,
+    "slug": "Illaoi",
+    "name": "Illaoi",
+    "title": "the Kraken Priestess",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Illaoi.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/420.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg"
+  },
+  {
+    "id": 39,
+    "slug": "Irelia",
+    "name": "Irelia",
+    "title": "the Blade Dancer",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Irelia.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/39.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg"
+  },
+  {
+    "id": 427,
+    "slug": "Ivern",
+    "name": "Ivern",
+    "title": "the Green Father",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ivern.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/427.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg"
+  },
+  {
+    "id": 40,
+    "slug": "Janna",
+    "name": "Janna",
+    "title": "the Storm's Fury",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Janna.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/40.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg"
+  },
+  {
+    "id": 59,
+    "slug": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "the Exemplar of Demacia",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/JarvanIV.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/59.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg"
+  },
+  {
+    "id": 24,
+    "slug": "Jax",
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jax.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/24.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg"
+  },
+  {
+    "id": 126,
+    "slug": "Jayce",
+    "name": "Jayce",
+    "title": "the Defender of Tomorrow",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jayce.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/126.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg"
+  },
+  {
+    "id": 202,
+    "slug": "Jhin",
+    "name": "Jhin",
+    "title": "the Virtuoso",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jhin.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/202.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg"
+  },
+  {
+    "id": 222,
+    "slug": "Jinx",
+    "name": "Jinx",
+    "title": "the Loose Cannon",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Jinx.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
+  },
+  {
+    "id": 897,
+    "slug": "KSante",
+    "name": "K'Sante",
+    "title": "the Pride of Nazumah",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KSante.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/897.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg"
+  },
+  {
+    "id": 145,
+    "slug": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "Daughter of the Void",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kaisa.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/145.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg"
+  },
+  {
+    "id": 429,
+    "slug": "Kalista",
+    "name": "Kalista",
+    "title": "the Spear of Vengeance",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kalista.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/429.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg"
+  },
+  {
+    "id": 43,
+    "slug": "Karma",
+    "name": "Karma",
+    "title": "the Enlightened One",
+    "roles": [
+      "Mid",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karma.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/43.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg"
+  },
+  {
+    "id": 30,
+    "slug": "Karthus",
+    "name": "Karthus",
+    "title": "the Deathsinger",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Karthus.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/30.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg"
+  },
+  {
+    "id": 38,
+    "slug": "Kassadin",
+    "name": "Kassadin",
+    "title": "the Void Walker",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kassadin.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/38.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg"
+  },
+  {
+    "id": 55,
+    "slug": "Katarina",
+    "name": "Katarina",
+    "title": "the Sinister Blade",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Katarina.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/55.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg"
+  },
+  {
+    "id": 10,
+    "slug": "Kayle",
+    "name": "Kayle",
+    "title": "the Righteous",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayle.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/10.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg"
+  },
+  {
+    "id": 141,
+    "slug": "Kayn",
+    "name": "Kayn",
+    "title": "the Shadow Reaper",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kayn.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/141.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg"
+  },
+  {
+    "id": 85,
+    "slug": "Kennen",
+    "name": "Kennen",
+    "title": "the Heart of the Tempest",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kennen.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/85.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg"
+  },
+  {
+    "id": 121,
+    "slug": "Khazix",
+    "name": "Kha'Zix",
+    "title": "the Voidreaver",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Khazix.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/121.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg"
+  },
+  {
+    "id": 203,
+    "slug": "Kindred",
+    "name": "Kindred",
+    "title": "The Eternal Hunters",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kindred.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/203.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg"
+  },
+  {
+    "id": 240,
+    "slug": "Kled",
+    "name": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Kled.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/240.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg"
+  },
+  {
+    "id": 96,
+    "slug": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "the Mouth of the Abyss",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/KogMaw.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/96.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "Leblanc",
+    "name": "LeBlanc",
+    "title": "the Deceiver",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leblanc.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/7.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg"
+  },
+  {
+    "id": 64,
+    "slug": "LeeSin",
+    "name": "Lee Sin",
+    "title": "the Blind Monk",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/LeeSin.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/64.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg"
+  },
+  {
+    "id": 89,
+    "slug": "Leona",
+    "name": "Leona",
+    "title": "the Radiant Dawn",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Leona.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/89.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg"
+  },
+  {
+    "id": 876,
+    "slug": "Lillia",
+    "name": "Lillia",
+    "title": "the Bashful Bloom",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lillia.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/876.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg"
+  },
+  {
+    "id": 127,
+    "slug": "Lissandra",
+    "name": "Lissandra",
+    "title": "the Ice Witch",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lissandra.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/127.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg"
+  },
+  {
+    "id": 805,
+    "slug": "Locke",
+    "name": "Locke",
+    "title": "the Ashen Exorcist",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Locke.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/805.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_0.jpg"
+  },
+  {
+    "id": 236,
+    "slug": "Lucian",
+    "name": "Lucian",
+    "title": "the Purifier",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lucian.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/236.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg"
+  },
+  {
+    "id": 117,
+    "slug": "Lulu",
+    "name": "Lulu",
+    "title": "the Fae Sorceress",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lulu.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/117.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg"
+  },
+  {
+    "id": 99,
+    "slug": "Lux",
+    "name": "Lux",
+    "title": "the Lady of Luminosity",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Lux.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/99.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
+  },
+  {
+    "id": 54,
+    "slug": "Malphite",
+    "name": "Malphite",
+    "title": "Shard of the Monolith",
+    "roles": [
+      "Mid",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malphite.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/54.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg"
+  },
+  {
+    "id": 90,
+    "slug": "Malzahar",
+    "name": "Malzahar",
+    "title": "the Prophet of the Void",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Malzahar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/90.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg"
+  },
+  {
+    "id": 57,
+    "slug": "Maokai",
+    "name": "Maokai",
+    "title": "the Twisted Treant",
+    "roles": [
+      "Jungle",
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Maokai.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/57.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg"
+  },
+  {
+    "id": 11,
+    "slug": "MasterYi",
+    "name": "Master Yi",
+    "title": "the Wuju Bladesman",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MasterYi.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/11.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg"
+  },
+  {
+    "id": 800,
+    "slug": "Mel",
+    "name": "Mel",
+    "title": "the Soul's Reflection",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mel.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/800.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_0.jpg"
+  },
+  {
+    "id": 902,
+    "slug": "Milio",
+    "name": "Milio",
+    "title": "The Gentle Flame",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Milio.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/902.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg"
+  },
+  {
+    "id": 21,
+    "slug": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "the Bounty Hunter",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MissFortune.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/21.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg"
+  },
+  {
+    "id": 82,
+    "slug": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "the Iron Revenant",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Mordekaiser.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/82.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg"
+  },
+  {
+    "id": 25,
+    "slug": "Morgana",
+    "name": "Morgana",
+    "title": "the Fallen",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Morgana.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/25.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg"
+  },
+  {
+    "id": 950,
+    "slug": "Naafiri",
+    "name": "Naafiri",
+    "title": "the Hound of a Hundred Bites",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Naafiri.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/950.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_0.jpg"
+  },
+  {
+    "id": 267,
+    "slug": "Nami",
+    "name": "Nami",
+    "title": "the Tidecaller",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nami.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/267.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg"
+  },
+  {
+    "id": 75,
+    "slug": "Nasus",
+    "name": "Nasus",
+    "title": "the Curator of the Sands",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nasus.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/75.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg"
+  },
+  {
+    "id": 111,
+    "slug": "Nautilus",
+    "name": "Nautilus",
+    "title": "the Titan of the Depths",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nautilus.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/111.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg"
+  },
+  {
+    "id": 518,
+    "slug": "Neeko",
+    "name": "Neeko",
+    "title": "the Curious Chameleon",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Neeko.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/518.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg"
+  },
+  {
+    "id": 76,
+    "slug": "Nidalee",
+    "name": "Nidalee",
+    "title": "the Bestial Huntress",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nidalee.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/76.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg"
+  },
+  {
+    "id": 895,
+    "slug": "Nilah",
+    "name": "Nilah",
+    "title": "the Joy Unbound",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nilah.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/895.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg"
+  },
+  {
+    "id": 56,
+    "slug": "Nocturne",
+    "name": "Nocturne",
+    "title": "the Eternal Nightmare",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nocturne.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/56.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg"
+  },
+  {
+    "id": 20,
+    "slug": "Nunu",
+    "name": "Nunu & Willump",
+    "title": "the Boy and His Yeti",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Nunu.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/20.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "Olaf",
+    "name": "Olaf",
+    "title": "the Berserker",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Olaf.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/2.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg"
+  },
+  {
+    "id": 61,
+    "slug": "Orianna",
+    "name": "Orianna",
+    "title": "the Lady of Clockwork",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Orianna.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/61.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg"
+  },
+  {
+    "id": 516,
+    "slug": "Ornn",
+    "name": "Ornn",
+    "title": "The Fire below the Mountain",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ornn.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/516.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg"
+  },
+  {
+    "id": 80,
+    "slug": "Pantheon",
+    "name": "Pantheon",
+    "title": "the Unbreakable Spear",
+    "roles": [
+      "Jungle",
+      "Mid",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pantheon.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/80.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+  },
+  {
+    "id": 78,
+    "slug": "Poppy",
+    "name": "Poppy",
+    "title": "Keeper of the Hammer",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Poppy.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/78.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg"
+  },
+  {
+    "id": 555,
+    "slug": "Pyke",
+    "name": "Pyke",
+    "title": "the Bloodharbor Ripper",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Pyke.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/555.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg"
+  },
+  {
+    "id": 246,
+    "slug": "Qiyana",
+    "name": "Qiyana",
+    "title": "Empress of the Elements",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Qiyana.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/246.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg"
+  },
+  {
+    "id": 133,
+    "slug": "Quinn",
+    "name": "Quinn",
+    "title": "Demacia's Wings",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Quinn.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/133.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg"
+  },
+  {
+    "id": 497,
+    "slug": "Rakan",
+    "name": "Rakan",
+    "title": "The Charmer",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rakan.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/497.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg"
+  },
+  {
+    "id": 33,
+    "slug": "Rammus",
+    "name": "Rammus",
+    "title": "the Armordillo",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rammus.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/33.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg"
+  },
+  {
+    "id": 421,
+    "slug": "RekSai",
+    "name": "Rek'Sai",
+    "title": "the Void Burrower",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/RekSai.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/421.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg"
+  },
+  {
+    "id": 526,
+    "slug": "Rell",
+    "name": "Rell",
+    "title": "the Iron Maiden",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rell.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/526.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg"
+  },
+  {
+    "id": 888,
+    "slug": "Renata",
+    "name": "Renata Glasc",
+    "title": "the Chem-Baroness",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renata.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/888.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg"
+  },
+  {
+    "id": 58,
+    "slug": "Renekton",
+    "name": "Renekton",
+    "title": "the Butcher of the Sands",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Renekton.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/58.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg"
+  },
+  {
+    "id": 107,
+    "slug": "Rengar",
+    "name": "Rengar",
+    "title": "the Pridestalker",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rengar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/107.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg"
+  },
+  {
+    "id": 92,
+    "slug": "Riven",
+    "name": "Riven",
+    "title": "the Exile",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Riven.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/92.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg"
+  },
+  {
+    "id": 68,
+    "slug": "Rumble",
+    "name": "Rumble",
+    "title": "the Mechanized Menace",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Rumble.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/68.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg"
+  },
+  {
+    "id": 13,
+    "slug": "Ryze",
+    "name": "Ryze",
+    "title": "the Rune Mage",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ryze.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/13.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg"
+  },
+  {
+    "id": 360,
+    "slug": "Samira",
+    "name": "Samira",
+    "title": "the Desert Rose",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Samira.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/360.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg"
+  },
+  {
+    "id": 113,
+    "slug": "Sejuani",
+    "name": "Sejuani",
+    "title": "Fury of the North",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sejuani.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/113.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg"
+  },
+  {
+    "id": 235,
+    "slug": "Senna",
+    "name": "Senna",
+    "title": "the Redeemer",
+    "roles": [
+      "ADC",
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Senna.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/235.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg"
+  },
+  {
+    "id": 147,
+    "slug": "Seraphine",
+    "name": "Seraphine",
+    "title": "the Starry-Eyed Songstress",
+    "roles": [
+      "ADC",
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Seraphine.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/147.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg"
+  },
+  {
+    "id": 875,
+    "slug": "Sett",
+    "name": "Sett",
+    "title": "the Boss",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sett.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/875.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg"
+  },
+  {
+    "id": 35,
+    "slug": "Shaco",
+    "name": "Shaco",
+    "title": "the Demon Jester",
+    "roles": [
+      "Jungle",
+      "Support"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shaco.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/35.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg"
+  },
+  {
+    "id": 98,
+    "slug": "Shen",
+    "name": "Shen",
+    "title": "the Eye of Twilight",
+    "roles": [
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shen.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/98.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg"
+  },
+  {
+    "id": 102,
+    "slug": "Shyvana",
+    "name": "Shyvana",
+    "title": "the Half-Dragon",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Shyvana.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/102.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg"
+  },
+  {
+    "id": 27,
+    "slug": "Singed",
+    "name": "Singed",
+    "title": "the Mad Chemist",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Singed.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/27.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg"
+  },
+  {
+    "id": 14,
+    "slug": "Sion",
+    "name": "Sion",
+    "title": "The Undead Juggernaut",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sion.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/14.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg"
+  },
+  {
+    "id": 15,
+    "slug": "Sivir",
+    "name": "Sivir",
+    "title": "the Battle Mistress",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sivir.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/15.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg"
+  },
+  {
+    "id": 72,
+    "slug": "Skarner",
+    "name": "Skarner",
+    "title": "the Primordial Sovereign",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Skarner.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/72.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg"
+  },
+  {
+    "id": 901,
+    "slug": "Smolder",
+    "name": "Smolder",
+    "title": "the Fiery Fledgling",
+    "roles": [
+      "ADC",
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Smolder.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/901.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg"
+  },
+  {
+    "id": 37,
+    "slug": "Sona",
+    "name": "Sona",
+    "title": "Maven of the Strings",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sona.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/37.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg"
+  },
+  {
+    "id": 16,
+    "slug": "Soraka",
+    "name": "Soraka",
+    "title": "the Starchild",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Soraka.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/16.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg"
+  },
+  {
+    "id": 50,
+    "slug": "Swain",
+    "name": "Swain",
+    "title": "the Noxian Grand General",
+    "roles": [
+      "ADC",
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Swain.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/50.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg"
+  },
+  {
+    "id": 517,
+    "slug": "Sylas",
+    "name": "Sylas",
+    "title": "the Unshackled",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Sylas.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/517.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg"
+  },
+  {
+    "id": 134,
+    "slug": "Syndra",
+    "name": "Syndra",
+    "title": "the Dark Sovereign",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Syndra.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/134.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg"
+  },
+  {
+    "id": 223,
+    "slug": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "The River King",
+    "roles": [
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TahmKench.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/223.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg"
+  },
+  {
+    "id": 163,
+    "slug": "Taliyah",
+    "name": "Taliyah",
+    "title": "the Stoneweaver",
+    "roles": [
+      "Jungle",
+      "Mid"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taliyah.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/163.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg"
+  },
+  {
+    "id": 91,
+    "slug": "Talon",
+    "name": "Talon",
+    "title": "the Blade's Shadow",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Talon.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/91.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg"
+  },
+  {
+    "id": 44,
+    "slug": "Taric",
+    "name": "Taric",
+    "title": "the Shield of Valoran",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Taric.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/44.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg"
+  },
+  {
+    "id": 17,
+    "slug": "Teemo",
+    "name": "Teemo",
+    "title": "the Swift Scout",
+    "roles": [
+      "Jungle",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Teemo.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/17.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg"
+  },
+  {
+    "id": 412,
+    "slug": "Thresh",
+    "name": "Thresh",
+    "title": "the Chain Warden",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Thresh.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/412.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
+  },
+  {
+    "id": 18,
+    "slug": "Tristana",
+    "name": "Tristana",
+    "title": "the Yordle Gunner",
+    "roles": [
+      "ADC",
+      "Mid"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tristana.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/18.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg"
+  },
+  {
+    "id": 48,
+    "slug": "Trundle",
+    "name": "Trundle",
+    "title": "the Troll King",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Trundle.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/48.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg"
+  },
+  {
+    "id": 23,
+    "slug": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "the Barbarian King",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Tryndamere.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/23.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "the Card Master",
+    "roles": [
+      "ADC",
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/TwistedFate.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/4.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg"
+  },
+  {
+    "id": 29,
+    "slug": "Twitch",
+    "name": "Twitch",
+    "title": "the Plague Rat",
+    "roles": [
+      "ADC",
+      "Support"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Twitch.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/29.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg"
+  },
+  {
+    "id": 77,
+    "slug": "Udyr",
+    "name": "Udyr",
+    "title": "the Spirit Walker",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Udyr.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/77.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "Urgot",
+    "name": "Urgot",
+    "title": "the Dreadnought",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Urgot.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/6.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg"
+  },
+  {
+    "id": 110,
+    "slug": "Varus",
+    "name": "Varus",
+    "title": "the Arrow of Retribution",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Varus.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/110.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
+  },
+  {
+    "id": 67,
+    "slug": "Vayne",
+    "name": "Vayne",
+    "title": "the Night Hunter",
+    "roles": [
+      "ADC",
+      "Top"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vayne.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/67.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg"
+  },
+  {
+    "id": 45,
+    "slug": "Veigar",
+    "name": "Veigar",
+    "title": "the Tiny Master of Evil",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Veigar.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/45.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg"
+  },
+  {
+    "id": 161,
+    "slug": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "the Eye of the Void",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Velkoz.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/161.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg"
+  },
+  {
+    "id": 711,
+    "slug": "Vex",
+    "name": "Vex",
+    "title": "the Gloomist",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vex.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/711.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg"
+  },
+  {
+    "id": 254,
+    "slug": "Vi",
+    "name": "Vi",
+    "title": "the Piltover Enforcer",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vi.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/254.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg"
+  },
+  {
+    "id": 234,
+    "slug": "Viego",
+    "name": "Viego",
+    "title": "The Ruined King",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viego.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/234.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg"
+  },
+  {
+    "id": 112,
+    "slug": "Viktor",
+    "name": "Viktor",
+    "title": "the Herald of the Arcane",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Viktor.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/112.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "Vladimir",
+    "name": "Vladimir",
+    "title": "the Crimson Reaper",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Mage",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Vladimir.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/8.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg"
+  },
+  {
+    "id": 106,
+    "slug": "Volibear",
+    "name": "Volibear",
+    "title": "the Relentless Storm",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Volibear.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/106.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg"
+  },
+  {
+    "id": 19,
+    "slug": "Warwick",
+    "name": "Warwick",
+    "title": "the Uncaged Wrath of Zaun",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Warwick.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/19.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg"
+  },
+  {
+    "id": 62,
+    "slug": "MonkeyKing",
+    "name": "Wukong",
+    "title": "the Monkey King",
+    "roles": [
+      "Jungle",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/MonkeyKing.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/62.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg"
+  },
+  {
+    "id": 498,
+    "slug": "Xayah",
+    "name": "Xayah",
+    "title": "the Rebel",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xayah.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/498.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg"
+  },
+  {
+    "id": 101,
+    "slug": "Xerath",
+    "name": "Xerath",
+    "title": "the Magus Ascendant",
+    "roles": [
+      "Mid",
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Xerath.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/101.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "XinZhao",
+    "name": "Xin Zhao",
+    "title": "the Seneschal of Demacia",
+    "roles": [
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/XinZhao.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/5.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg"
+  },
+  {
+    "id": 157,
+    "slug": "Yasuo",
+    "name": "Yasuo",
+    "title": "the Unforgiven",
+    "roles": [
+      "ADC",
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yasuo.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg"
+  },
+  {
+    "id": 777,
+    "slug": "Yone",
+    "name": "Yone",
+    "title": "the Unforgotten",
+    "roles": [
+      "Mid",
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yone.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/777.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg"
+  },
+  {
+    "id": 83,
+    "slug": "Yorick",
+    "name": "Yorick",
+    "title": "Shepherd of Souls",
+    "roles": [
+      "Top"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yorick.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/83.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg"
+  },
+  {
+    "id": 804,
+    "slug": "Yunara",
+    "name": "Yunara",
+    "title": "the Unbroken Faith",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yunara.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/804.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_0.jpg"
+  },
+  {
+    "id": 350,
+    "slug": "Yuumi",
+    "name": "Yuumi",
+    "title": "the Magical Cat",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Yuumi.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/350.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg"
+  },
+  {
+    "id": 904,
+    "slug": "Zaahen",
+    "name": "Zaahen",
+    "title": "The Unsundered",
+    "roles": [
+      "Top",
+      "Jungle"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zaahen.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/904.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_0.jpg"
+  },
+  {
+    "id": 154,
+    "slug": "Zac",
+    "name": "Zac",
+    "title": "the Secret Weapon",
+    "roles": [
+      "Jungle",
+      "Support",
+      "Top"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zac.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/154.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg"
+  },
+  {
+    "id": 238,
+    "slug": "Zed",
+    "name": "Zed",
+    "title": "the Master of Shadows",
+    "roles": [
+      "Jungle",
+      "Mid"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zed.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/238.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg"
+  },
+  {
+    "id": 221,
+    "slug": "Zeri",
+    "name": "Zeri",
+    "title": "The Spark of Zaun",
+    "roles": [
+      "ADC"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zeri.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/221.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg"
+  },
+  {
+    "id": 115,
+    "slug": "Ziggs",
+    "name": "Ziggs",
+    "title": "the Hexplosives Expert",
+    "roles": [
+      "ADC",
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Ziggs.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/115.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg"
+  },
+  {
+    "id": 26,
+    "slug": "Zilean",
+    "name": "Zilean",
+    "title": "the Chronokeeper",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zilean.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/26.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg"
+  },
+  {
+    "id": 142,
+    "slug": "Zoe",
+    "name": "Zoe",
+    "title": "the Aspect of Twilight",
+    "roles": [
+      "Mid"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zoe.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/142.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg"
+  },
+  {
+    "id": 143,
+    "slug": "Zyra",
+    "name": "Zyra",
+    "title": "Rise of the Thorns",
+    "roles": [
+      "Support"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "portraitUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/champion/Zyra.png",
+    "fallbackPortraitUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/143.png",
+    "splashUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg"
+  }
+]

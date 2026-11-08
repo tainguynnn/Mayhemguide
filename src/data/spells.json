@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4,
+    "name": "Flash",
+    "viName": "Tốc Biến",
+    "description": "Teleports you a short distance toward your cursor.",
+    "viDescription": "Dịch chuyển tức thời tướng tới một khoảng cách ngắn theo hướng con trỏ chuột.",
+    "cooldown": 300,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerFlash.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summoner_flash.png"
+  },
+  {
+    "id": 32,
+    "name": "Mark",
+    "viName": "Đánh Dấu (Cầu Tuyết)",
+    "description": "Throw a snowball in a straight line at your enemies. If it hits an enemy, they become marked, granting True Sight, and your champion can quickly travel to the marked target as a follow up.",
+    "viDescription": "Ném một quả cầu tuyết theo đường thẳng. Nếu trúng địch, làm lộ diện mục tiêu và cho phép tái kích hoạt để lướt nhanh tới đó.",
+    "cooldown": 80,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerSnowball.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summoner_mark.png"
+  },
+  {
+    "id": 6,
+    "name": "Ghost",
+    "viName": "Tốc Hành",
+    "description": "Gain Move Speed and ignore unit collision for the duration.",
+    "viDescription": "Nhận thêm Tốc độ Di chuyển lớn và chạy xuyên vật thể trong suốt thời gian hiệu lực.",
+    "cooldown": 240,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerHaste.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summoner_haste.png"
+  },
+  {
+    "id": 7,
+    "name": "Heal",
+    "viName": "Hồi Máu",
+    "description": "Restores Health and grants Move Speed to you and target allied champion.",
+    "viDescription": "Hồi phục một lượng Máu và tăng Tốc độ Di chuyển trong 1 giây cho bạn và một tướng đồng minh chỉ định.",
+    "cooldown": 240,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerHeal.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summoner_heal.png"
+  },
+  {
+    "id": 21,
+    "name": "Barrier",
+    "viName": "Lá Chắn",
+    "description": "Gain a brief Shield.",
+    "viDescription": "Bảo vệ tướng bằng một lượng lá chắn đáng kể trong 2.5 giây.",
+    "cooldown": 180,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerBarrier.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summonerbarrier.png"
+  },
+  {
+    "id": 14,
+    "name": "Ignite",
+    "viName": "Thiêu Đốt",
+    "description": "Deals true damage over time to target enemy champion and reduces healing effects on them for the duration.",
+    "viDescription": "Gây sát thương chuẩn theo thời gian lên tướng địch chỉ định và áp dụng hiệu ứng Vết Thương Sâu giảm hồi máu.",
+    "cooldown": 180,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerDot.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summonerignite.png"
+  },
+  {
+    "id": 3,
+    "name": "Exhaust",
+    "viName": "Kiệt Sức",
+    "description": "Exhausts target enemy champion, reducing their Move Speed and damage dealt for 3 seconds.",
+    "viDescription": "Làm suy yếu tướng địch chỉ định, làm chậm 35% và giảm 35% sát thương chúng gây ra trong 3 giây.",
+    "cooldown": 210,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerExhaust.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summonerexhaust.png"
+  },
+  {
+    "id": 1,
+    "name": "Cleanse",
+    "viName": "Thanh Tẩy",
+    "description": "Removes all disables (excluding suppression and airborne) and summoner spell debuffs affecting your champion and gives Tenacity.",
+    "viDescription": "Hóa giải toàn bộ các hiệu ứng vô hiệu hóa (ngoại trừ Áp Chế và Hất Văng) và hiệu ứng bất lợi từ phép bổ trợ, đồng thời nhận thêm 65% Kháng Hiệu ứng trong 3 giây.",
+    "cooldown": 240,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerBoost.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summoner_boost.png"
+  },
+  {
+    "id": 13,
+    "name": "Clarity",
+    "viName": "Minh Mẫn",
+    "description": "Restores your and ally champion's Mana.",
+    "viDescription": "Hồi phục 50% Năng lượng tối đa cho bản thân và 25% Năng lượng tối đa cho các đồng minh lân cận.",
+    "cooldown": 240,
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/spell/SummonerMana.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/data/spells/icons2d/summonermana.png"
+  }
+]

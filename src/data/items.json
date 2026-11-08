@@ -1,0 +1,4414 @@
+[
+  {
+    "id": 226668,
+    "name": "Ultra Hydra",
+    "plainDescription": "Ultra Hydra (0s)\nOn active, enhance your next basic attack to deal \nphysical damage\nto enemies around you and to enemies behind the target. Ultra Hydra (0s)\nOn active, enhance your next basic attack to deal \nphysical damage\nto enemies around you and to enemies behind the target.",
+    "statsSummary": [
+      "200 Attack Damage",
+      "25 Ability Haste",
+      "25 Lethality",
+      "1000 Health",
+      "15% Omnivamp"
+    ],
+    "priceTotal": 6000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "LifeSteal",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/226668.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/kiwi/aram_ultimatehydra_64.png"
+  },
+  {
+    "id": 223069,
+    "name": "Void Immolation",
+    "plainDescription": "Immolate\nAfter taking or dealing damage, deal magic damage per second to nearby enemies for 5 seconds. \nDesolate\nKilling an enemy deals magic damage around them.",
+    "statsSummary": [
+      "1000 Health",
+      "100 Armor",
+      "80 Magic Resist",
+      "25 Ability Haste",
+      "200% Base Health Regen"
+    ],
+    "priceTotal": 6000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Aura",
+      "CooldownReduction",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/223069.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/223069_kiwi_voidimmolation.png"
+  },
+  {
+    "id": 228002,
+    "name": "Wooglet's Witchcap",
+    "plainDescription": "Magical Opus:\nIncreases your total Ability Power by 50% (0).\nTime Stop\nEnter Stasis for 2.5 seconds.",
+    "statsSummary": [
+      "300 Ability Power",
+      "50 Armor",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 6000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/228002.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3385_forge_wooglets_witchcap.png"
+  },
+  {
+    "id": 3146,
+    "name": "Hextech Gunblade",
+    "plainDescription": "ACTIVE (0s)\nLightning Bolt\nShocks the target enemy champion, dealing magic damage and slowing them by 25% for 1.5 seconds.",
+    "statsSummary": [
+      "80 Ability Power",
+      "40 Attack Damage",
+      "10% Omnivamp"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "LifeSteal",
+      "SpellDamage",
+      "Active",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3146.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3146_hextechgunblade.png"
+  },
+  {
+    "id": 123430,
+    "name": "Rite of Ruin",
+    "plainDescription": "Wrath and Ruin\nOn spell cast, gain 2.5% Critical Strike Chance for 6 seconds, stacking up to 20%.\nSalvage the Wreckage\nYour spells have a chance equal to your Critical Strike Chance to grant you or your targeted ally a shield for for 3s.",
+    "statsSummary": [
+      "55 Ability Power",
+      "10 Ability Haste",
+      "25% Critical Strike Chance",
+      "4% Move Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "SpellDamage",
+      "CooldownReduction",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/123430.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3430_riteofruin.png"
+  },
+  {
+    "id": 3039,
+    "name": "Atma's Reckoning",
+    "plainDescription": "Big Hands\nGain 0-30% Critical Strike Chance, scaling with your bonus Health.",
+    "statsSummary": [
+      "700 Health",
+      "20% Critical Strike Chance",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3039.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3005_fighter_t3_atmasreckoning.png"
+  },
+  {
+    "id": 994403,
+    "name": "Golden Spatula",
+    "plainDescription": "Doing Something\nYou are permanently On Fire!\n\"It must do something...\nDeclined, it does EVERYTHING\"",
+    "statsSummary": [
+      "90 Attack Damage",
+      "110 Ability Power",
+      "40% Attack Speed",
+      "15% Critical Strike Chance",
+      "200 Health",
+      "20 Armor",
+      "20 Magic Resist",
+      "200 Mana",
+      "20 Ability Haste",
+      "10% Move Speed",
+      "10% Life Steal",
+      "50% Base Health Regen",
+      "100% Base Mana Regen"
+    ],
+    "priceTotal": 2500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Armor",
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "LifeSteal",
+      "SpellDamage",
+      "Mana",
+      "ManaRegen",
+      "CooldownReduction",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/994403.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4403_goldenspatula.png"
+  },
+  {
+    "id": 124011,
+    "name": "Sword of Blossoming Dawn",
+    "plainDescription": "Effervescence\nGain + 1.2% Attack Speed for every 1% Heal and Shield Power you have. \nPeppermint\nOn-Hit, heal the lowest health ally champion near you for , prioritizing lower health allies.",
+    "statsSummary": [
+      "45 Ability Power",
+      "200 Health",
+      "12% Heal and Shield Power",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2350,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/124011.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4011_swordofblossomingdawn.png"
+  },
+  {
+    "id": 6032,
+    "name": "Stat Bonus",
+    "plainDescription": "Active - Consume: Automatically open a semi-random selection for a permanent stat bonus. And a hat!",
+    "statsSummary": [],
+    "priceTotal": 750,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": true,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "SpellDamage",
+      "Mana",
+      "Consumable",
+      "CooldownReduction",
+      "SpellVamp",
+      "NonbootsMovement",
+      "Tenacity",
+      "MagicPenetration",
+      "ArmorPenetration",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6032.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/220000_statanvil.png"
+  },
+  {
+    "id": 3031,
+    "name": "Infinity Edge",
+    "plainDescription": "Massively enhances critical strikes",
+    "statsSummary": [
+      "75 Attack Damage",
+      "25% Critical Strike Chance",
+      "30% Critical Strike Damage"
+    ],
+    "priceTotal": 3500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3031.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3031_marksman_t3_infinityedge.png"
+  },
+  {
+    "id": 3089,
+    "name": "Rabadon's Deathcap",
+    "plainDescription": "Magical Opus\nIncreases your total Ability Power by 30%.",
+    "statsSummary": [
+      "130 Ability Power"
+    ],
+    "priceTotal": 3500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3089.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3089_mage_t3_deathcap.png"
+  },
+  {
+    "id": 3072,
+    "name": "Bloodthirster",
+    "plainDescription": "Ichorshield\nConvert excess healing from your Lifesteal to a Shield.",
+    "statsSummary": [
+      "80 Attack Damage",
+      "15% Life Steal"
+    ],
+    "priceTotal": 3400,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3072.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3072_fighter_t3_bloodthirster.png"
+  },
+  {
+    "id": 3078,
+    "name": "Trinity Force",
+    "plainDescription": "Spellblade\nAfter using an Ability, your next Attack deals \nbonus physical damage\nOn-Hit.\nQuicken\nAttacking grants 20 Move Speed for 2 seconds.",
+    "statsSummary": [
+      "36 Attack Damage",
+      "30% Attack Speed",
+      "333 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 3333,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3078.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3078_fighter_t4_trinityforce.png"
+  },
+  {
+    "id": 6333,
+    "name": "Death's Dance",
+    "plainDescription": "Ignore Pain\nA percentage of damage taken is dealt to you over 3 seconds instead.\nDefy\nWhen a champion that you damaged within 3 seconds dies, cleanse \nIgnore Pain's\nremaining damage and restore Health over 2 seconds.",
+    "statsSummary": [
+      "60 Attack Damage",
+      "50 Armor",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Armor",
+      "Damage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6333.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6333_fighter_t3_deathsdance.png"
+  },
+  {
+    "id": 3036,
+    "name": "Lord Dominik's Regards",
+    "plainDescription": "Giant Slayer\nDeal up to 15% bonus damage against champions based on their bonus Health. Maximum damage bonus reached at 1500 bonus Health.",
+    "statsSummary": [
+      "35 Attack Damage",
+      "35% Armor Penetration",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3036.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3036_marksman_t3_dominikregards.png"
+  },
+  {
+    "id": 2501,
+    "name": "Overlord's Bloodmail",
+    "plainDescription": "Tyranny\nGain 2.5% of your bonus Health as Attack Damage. \nRetribution\nGain up to 10% increased Attack Damage based on your percent missing Health.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "550 Health"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2501.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/7111_overlordsbloodmail.png"
+  },
+  {
+    "id": 3074,
+    "name": "Ravenous Hydra",
+    "plainDescription": "Cleave\nAttacks deal \nphysical damage\nto nearby enemies. Ravenous Crescent\nDeal \nphysical damage\nto enemies around you. \nYour Life Steal applies to this damage.",
+    "statsSummary": [
+      "65 Attack Damage",
+      "15 Ability Haste",
+      "12% Life Steal"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "LifeSteal",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3074.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3074_fighter_t3_ravenoushydra.png"
+  },
+  {
+    "id": 6631,
+    "name": "Stridebreaker",
+    "plainDescription": "Cleave\nAttacks deal \nphysical damage\nto nearby enemies.\nBreaking Shockwave\nDeal \nphysical damage\nand Slow nearby enemies by 35%.\nGain 35% decaying Move Speed per champion hit for 3 seconds.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "25% Attack Speed",
+      "450 Health"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6631.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6631_fighter_t4_stridebreaker.png"
+  },
+  {
+    "id": 3748,
+    "name": "Titanic Hydra",
+    "plainDescription": "Cleave\nAttacks deal \nphysical damage\non-hit and to enemies behind the target.\nTitanic Crescent\nEmpower your next \nCleave\nto deal \nbonus physical damage\nOn-Hit and deal \nbonus physical damage\nto enemies behind the target.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "600 Health"
+    ],
+    "priceTotal": 3300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3748.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3748_fighter_t3_titanichydra.png"
+  },
+  {
+    "id": 3157,
+    "name": "Zhonya's Hourglass",
+    "plainDescription": "Time Stop\nEnter Stasis for 2.5 seconds.",
+    "statsSummary": [
+      "105 Ability Power",
+      "50 Armor"
+    ],
+    "priceTotal": 3250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3157.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3157_mage_t3_zhonyashourglass.png"
+  },
+  {
+    "id": 3153,
+    "name": "Blade of The Ruined King",
+    "plainDescription": "Mist's Edge\nAttacks deal \na percentage\nof enemy's current Health as \nbonus physical damage\nOn-Hit.\nClawing Shadows\nAttacking a champion 3 times Slows them by 30% for 1 second.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "25% Attack Speed",
+      "10% Life Steal"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "AttackSpeed",
+      "LifeSteal",
+      "Slow",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3153.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3153_fighter_t3_bladeoftheruinedking.png"
+  },
+  {
+    "id": 6665,
+    "name": "Jak'Sho, The Protean",
+    "plainDescription": "Voidborn Resilience\nAfter 5 seconds of champion combat, increase your bonus Armor and Magic Resist by 30% until end of combat.",
+    "statsSummary": [
+      "350 Health",
+      "45 Armor",
+      "45 Magic Resist"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "MagicResist"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6665.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png"
+  },
+  {
+    "id": 3139,
+    "name": "Mercurial Scimitar",
+    "plainDescription": "ACTIVE\nQuicksilver\nRemoves all crowd control debuffs (excluding Airborne) and grants Move Speed.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "35 Magic Resist",
+      "10% Life Steal"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "Active",
+      "NonbootsMovement",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3139.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3139_marksman_t3_mercurialscimitar.png"
+  },
+  {
+    "id": 4645,
+    "name": "Shadowflame",
+    "plainDescription": "Cinderbloom\nMagic and \ntrue damage\nCritically Strike enemies below 40% Health, dealing 20% increased damage.",
+    "statsSummary": [
+      "110 Ability Power",
+      "15 Magic Penetration"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4645.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4645_shadowflame.png"
+  },
+  {
+    "id": 3053,
+    "name": "Sterak's Gage",
+    "plainDescription": "The Claws that Catch\nGain bonus Attack Damage.\nLifeline\nTaking damage that would reduce your Health below 30% grants a decaying Shield for 4.5 seconds.",
+    "statsSummary": [
+      "400 Health",
+      "20% Tenacity"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3053.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3053_steraks_gage.png"
+  },
+  {
+    "id": 3095,
+    "name": "Stormrazor",
+    "plainDescription": "Energized\nMoving and Attacking generates an Energized Attack.\nBolt\nYour Energized Attack applies bonus magic damage and grants 45% Movement Speed for 1.5 seconds.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "25% Attack Speed",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3095.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3095_windblade.png"
+  },
+  {
+    "id": 2510,
+    "name": "Dusk and Dawn",
+    "plainDescription": "Spellblade\n(0s)\nAfter using an Ability, your next Attack deals bonus magic damage and heals you for On-Hit and then applies On-Hit effects an additional time.",
+    "statsSummary": [
+      "300 Health",
+      "60 Ability Power",
+      "20 Ability Haste",
+      "20% Attack Speed"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2510.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2510_apfightersheen.png"
+  },
+  {
+    "id": 2517,
+    "name": "Endless Hunger",
+    "plainDescription": "Famine\nGain Ability Haste based on your Bonus AD.\nFeast\nWhen a champion that you damaged recently dies, gain Omnivamp for a moderate duration.",
+    "statsSummary": [
+      "65 Attack Damage",
+      "5% Omnivamp",
+      "20% Tenacity"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2517.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2517_adfighteromnivamp.png"
+  },
+  {
+    "id": 3156,
+    "name": "Maw of Malmortius",
+    "plainDescription": "Lifeline\nTaking magic damage that would reduce your Health below 30% grants a magic damage Shield for 3 seconds and \n10% Omnivamp\nuntil end of combat.",
+    "statsSummary": [
+      "60 Attack Damage",
+      "15 Ability Haste",
+      "40 Magic Resist"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellBlock",
+      "Damage",
+      "LifeSteal",
+      "SpellVamp",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3156.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3156_fighter_t3_mawofmalmortius.png"
+  },
+  {
+    "id": 4633,
+    "name": "Riftmaker",
+    "plainDescription": "Void Corruption\nFor each second in combat with enemy champions, deal 2% bonus damage, up to 8%. At maximum strength, gain Omnivamp.\nVoid Infusion\nGain 2% of your bonus Health as Ability Power.",
+    "statsSummary": [
+      "70 Ability Power",
+      "350 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4633.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4633_mage_t4_riftmaker.png"
+  },
+  {
+    "id": 3161,
+    "name": "Spear of Shojin",
+    "plainDescription": "Dragonforce\nGain 25 Basic Ability Haste.\nFocused Will\nDealing damage with Abilities increases your Champion's Ability and Passive damage by 3% for 6 seconds. (stacks 4 times).",
+    "statsSummary": [
+      "45 Attack Damage",
+      "450 Health"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3161.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3161_fighter_t3_spearofshojin.png"
+  },
+  {
+    "id": 6610,
+    "name": "Sundered Sky",
+    "plainDescription": "Lightshield Strike\nYour first Attack against a champion Critically Strikes and restores Health.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "400 Health",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6610.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6610_sunderedsky.png"
+  },
+  {
+    "id": 3083,
+    "name": "Warmog's Armor",
+    "plainDescription": "Warmog's Heart\nIf you have 2000 bonus Health and have not taken damage within 8 seconds, restore Health per second.\nWarmog's Vitality\nGain bonus Health equal to 12% of your Item Health (0).",
+    "statsSummary": [
+      "1000 Health",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 3100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3083.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3083_tank_t3_warmogs.png"
+  },
+  {
+    "id": 3508,
+    "name": "Essence Reaver",
+    "plainDescription": "Spellblade\nAfter using an Ability, your next Attack deals \nbonus physical damage\nand grants Mana On-Hit.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "20 Ability Haste",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3050,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "ManaRegen",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3508.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3508_marksman_t3_essencereaver.png"
+  },
+  {
+    "id": 3102,
+    "name": "Banshee's Veil",
+    "plainDescription": "Annul\nGrants a Spell Shield that blocks the next enemy Ability.",
+    "statsSummary": [
+      "105 Ability Power",
+      "40 Magic Resist"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellBlock",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3102.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3102_mage_t3_bansheesveil.png"
+  },
+  {
+    "id": 3071,
+    "name": "Black Cleaver",
+    "plainDescription": "Carve\nDealing \nphysical damage\nto champions reduces the target's Armor by 6% for 6 seconds. (stacks 5 times).\nFervor\nDealing \nphysical damage\ngrants Move Speed for 2 seconds.",
+    "statsSummary": [
+      "45 Attack Damage",
+      "400 Health",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "OnHit",
+      "NonbootsMovement",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3071.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3071_fighter_t3_blackcleaver.png"
+  },
+  {
+    "id": 6609,
+    "name": "Chempunk Chainsword",
+    "plainDescription": "Hackshorn\nDealing physical damage applies 40% Wounds to enemy champions for 3 seconds.",
+    "statsSummary": [
+      "45 Attack Damage",
+      "450 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6609.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6609_fighter_t3_chempunkchainsword.png"
+  },
+  {
+    "id": 4629,
+    "name": "Cosmic Drive",
+    "plainDescription": "Spelldance\nDealing magic or \ntrue damage\nto champions grants Move Speed for 4 seconds.",
+    "statsSummary": [
+      "70 Ability Power",
+      "350 Health",
+      "25 Ability Haste",
+      "4% Move Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4629.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4629_mage_t3_cosmicdrive.png"
+  },
+  {
+    "id": 3137,
+    "name": "Cryptbloom",
+    "plainDescription": "Life from Death\nWhen a champion that you damaged within 3 seconds dies, a nova spreads from their corpse that heals.",
+    "statsSummary": [
+      "75 Ability Power",
+      "30% Magic Penetration",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "MagicPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3137.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3137_cryptbloom.png"
+  },
+  {
+    "id": 3814,
+    "name": "Edge of Night",
+    "plainDescription": "Annul\nGrants a Spell Shield that blocks the next enemy Ability.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "15 Lethality",
+      "250 Health"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3814.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3814_assassin_t3_edgeofnight.png"
+  },
+  {
+    "id": 3073,
+    "name": "Experimental Hexplate",
+    "plainDescription": "Hexcharged\nGain 30 Ultimate Ability Haste.\nOverdrive\nAfter casting your Ultimate, gain % Attack Speed and % Move Speed for 8 seconds.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "20% Attack Speed",
+      "450 Health"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "AttackSpeed",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3073.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3073_hexaegis.png"
+  },
+  {
+    "id": 3124,
+    "name": "Guinsoo's Rageblade",
+    "plainDescription": "Wrath\nAttacks deal 30 bonus magic damage On-Hit.\nSeething Strike\nAttacks grant 8% Attack Speed for 4 seconds. (stacks 4 times). \nWhile fully stacked, every third Attack applies On-Hit effects twice.",
+    "statsSummary": [
+      "30 Attack Damage",
+      "30 Ability Power",
+      "25% Attack Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3124.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png"
+  },
+  {
+    "id": 3084,
+    "name": "Heartsteel",
+    "plainDescription": "Colossal Consumption\n(0s) per target\nIf an enemy champion is nearby for a few seconds, your next Attack against them deals \n70 plus 6%\nof your max Health as \nbonus physical damage\nand grants 10% of the damage as max Health.\nGoliath\nFor each 1000 max Health, gain 3% increased size, up to 30%.",
+    "statsSummary": [
+      "900 Health",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3084.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3084_tank_t4_heartsteel.png"
+  },
+  {
+    "id": 3181,
+    "name": "Hullbreaker",
+    "plainDescription": "Skipper\nEvery fifth Attack against champions and epic monsters deals \nbonus physical damage\n, increased against Structures.\nBoarding Party\nNearby allied siege and super minions gain Armor and Magic Resist.",
+    "statsSummary": [
+      "40 Attack Damage",
+      "500 Health",
+      "4% Move Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3181.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3181_hullbreaker.png"
+  },
+  {
+    "id": 6673,
+    "name": "Immortal Shieldbow",
+    "plainDescription": "Lifeline\nTaking damage that would reduce your Health below 30% grants a Shield for 3 seconds.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6673.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.png"
+  },
+  {
+    "id": 6672,
+    "name": "Kraken Slayer",
+    "plainDescription": "Bring It Down\nEvery third Attack deals \nbonus physical damage\nOn-Hit, increased based on their missing Health.",
+    "statsSummary": [
+      "45 Attack Damage",
+      "40% Attack Speed",
+      "4% Move Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6672.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6672_marksman_t4_behemothslayer.png"
+  },
+  {
+    "id": 6653,
+    "name": "Liandry's Torment",
+    "plainDescription": "Torment\nDamaging Abilities burn enemies for 2% max Health magic damage per second for 3 seconds.\nSuffering\nFor each second in combat with enemy champions, deal 2% bonus damage, up to 6%.",
+    "statsSummary": [
+      "60 Ability Power",
+      "300 Health"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6653.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6653_mage_t4_liandrysanguish.png"
+  },
+  {
+    "id": 3033,
+    "name": "Mortal Reminder",
+    "plainDescription": "Grievous Wounds\nDealing physical damage applies 40% Wounds to enemy champions for 3 seconds.",
+    "statsSummary": [
+      "35 Attack Damage",
+      "30% Armor Penetration",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3033.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3033_marksman_t3_mortalreminder.png"
+  },
+  {
+    "id": 6694,
+    "name": "Serylda's Grudge",
+    "plainDescription": "Bitter Cold\nDamaging Abilities Slow enemies below 50% Health by 30% for 1 second.",
+    "statsSummary": [
+      "45 Attack Damage",
+      "35% Armor Penetration",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6694.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6694_assasin_t3_seryldasgrudge.png"
+  },
+  {
+    "id": 3087,
+    "name": "Statikk Shiv",
+    "plainDescription": "Electrospark\nYour Energized Attacks fire chain lightning, applying On-Hit effects and dealing magic damage to nearby targets.\nElectroshock\nBasic Attacks grant extra Energized stacks.",
+    "statsSummary": [
+      "45 Attack Damage",
+      "45 Ability Power",
+      "30% Attack Speed",
+      "4% Move Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3087.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3087_statikk_shiv.png"
+  },
+  {
+    "id": 3302,
+    "name": "Terminus",
+    "plainDescription": "Shadow\nAttacks deal bonus magic damage On-Hit.\nJuxtaposition\nAlternate between Light and Dark Attacks against champions: \nLight Attacks grant Armor and Magic Resist for 5s. \nDark Attacks grant 10% Armor Penetration and Magic Penetration for 5s.",
+    "statsSummary": [
+      "30 Attack Damage",
+      "35% Attack Speed"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "AttackSpeed",
+      "OnHit",
+      "MagicPenetration",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3302.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3302_terminus.png"
+  },
+  {
+    "id": 6676,
+    "name": "The Collector",
+    "plainDescription": "Death\nYour damage executes champions that are below 5% Health.\nTaxes\nChampion kills grant 25 bonus gold.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "10 Lethality",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6676.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6676_marksman_t3_thecollector.png"
+  },
+  {
+    "id": 3135,
+    "name": "Void Staff",
+    "plainDescription": "Increases magic damage",
+    "statsSummary": [
+      "95 Ability Power",
+      "40% Magic Penetration"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "MagicPenetration",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3135.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3135_mage_t3_voidstaff.png"
+  },
+  {
+    "id": 6699,
+    "name": "Voltaic Cyclosword",
+    "plainDescription": "Galvanize\nDamaging an Enemy Champions with an ability triggers Energized if it is ready.\nFirmament\nYour Energized Attack deals \n% target's Current Health as bonus physical damage\nand grants you bonus Lethality for 4 seconds.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "10 Lethality",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6699.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6699_voltaiccyclosword.png"
+  },
+  {
+    "id": 3032,
+    "name": "Yun Tal Wildarrows",
+    "plainDescription": "Practice Makes Lethal\nOn-Attack, gain Critical Strike Chance permanently up to 25%.\nFlurry\nOn-Attacking an enemy champion, gain 30% Attack Speed for 6 seconds (30 second cooldown). \nAttacks reduce this cooldown by 1 second, increased to 2 seconds for Critical Strikes.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "45% Attack Speed",
+      "0% Critical Strike Chance"
+    ],
+    "priceTotal": 3000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike",
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3032.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3032_yuntalwildarrows.png"
+  },
+  {
+    "id": 126697,
+    "name": "Hubris",
+    "plainDescription": "Eminence\nGain temporary AD based on champion kills on kill.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "18 Lethality",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2950,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/126697.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6697_hubris.png"
+  },
+  {
+    "id": 3003,
+    "name": "Archangel's Staff",
+    "plainDescription": "Awe\nGain Ability Power equal to 1% bonus Mana.\nManaflow\n(8s, max 5 charges)\nLanding Abilities grants 5 max Mana (doubled vs. champions).\nTransforms into Seraph's Embrace at 360 max Mana.",
+    "statsSummary": [
+      "70 Ability Power",
+      "600 Mana",
+      "25 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3003.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3003_mage_t3_archangelstaff.png"
+  },
+  {
+    "id": 8010,
+    "name": "Bloodletter's Curse",
+    "plainDescription": "Vile Decay\nDealing magic damage with abilities or passives to champions reduces their Magic Resist by 7.5% for 6 seconds. (Stacks 4 times).",
+    "statsSummary": [
+      "65 Ability Power",
+      "400 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8010.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8010_bloodletterscurse.png"
+  },
+  {
+    "id": 3742,
+    "name": "Dead Man's Plate",
+    "plainDescription": "Shipwrecker\nWhile moving, build up to 20 bonus Move Speed. Your next Attack discharges built up Move Speed to deal \nbonus physical damage\n.\nUnsinkable\nReduce the effectiveness of Slows by 15%.",
+    "statsSummary": [
+      "350 Health",
+      "55 Armor",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor",
+      "Slow",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3742.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3742_tank_t3_deadmansplate.png"
+  },
+  {
+    "id": 6692,
+    "name": "Eclipse",
+    "plainDescription": "Ever Rising Moon\nHitting a champion with 2 separate Attacks or Abilities within 2 seconds grants you a Shield for 2 seconds.",
+    "statsSummary": [
+      "60 Attack Damage",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6692.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6692_assassin_t4_eclipse.png"
+  },
+  {
+    "id": 6662,
+    "name": "Iceborn Gauntlet",
+    "plainDescription": "Spellblade\nAfter using an Ability, your next Attack deals \nbonus physical damage\nOn-Hit and creates a frost field for 2s that Slows.",
+    "statsSummary": [
+      "300 Health",
+      "50 Armor",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor",
+      "CooldownReduction",
+      "Slow",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6662.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6662_tank_t3_iceborngauntlet.png"
+  },
+  {
+    "id": 2504,
+    "name": "Kaenic Rookern",
+    "plainDescription": "Magebane\nAfter not taking magic damage for 15 seconds, gain a magic shield.",
+    "statsSummary": [
+      "400 Health",
+      "80 Magic Resist",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2504.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2504_kaenicrookern.png"
+  },
+  {
+    "id": 3100,
+    "name": "Lich Bane",
+    "plainDescription": "Spellblade\nAfter using an Ability, your next Attack deals bonus magic damage On-Hit.",
+    "statsSummary": [
+      "100 Ability Power",
+      "6% Move Speed",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "OnHit",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3100.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3100_mage_t3_lichbane.png"
+  },
+  {
+    "id": 3004,
+    "name": "Manamune",
+    "plainDescription": "Awe\nGain bonus Attack Damage.\nManaflow\n(8s, max 4 charges)\nLanding Attacks and Abilities grants 3 max Mana (doubled vs. champions).\nTransforms into Muramana at 360 max Mana.",
+    "statsSummary": [
+      "35 Attack Damage",
+      "500 Mana",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Mana",
+      "CooldownReduction",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3004.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3004_marksman_t3_manamune.png"
+  },
+  {
+    "id": 3115,
+    "name": "Nashor's Tooth",
+    "plainDescription": "Icathian Bite\nAttacks deal bonus magic damage On-Hit.",
+    "statsSummary": [
+      "80 Ability Power",
+      "50% Attack Speed",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "AttackSpeed",
+      "SpellDamage",
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3115.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3115_mage_t3_nashorstooth.png"
+  },
+  {
+    "id": 3165,
+    "name": "Morellonomicon",
+    "plainDescription": "Grievous Wounds\nDealing magic damage to champions applies 40% Wounds for 3 seconds.",
+    "statsSummary": [
+      "75 Ability Power",
+      "350 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2850,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3165.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3165_mage_t3_morellonomicon.png"
+  },
+  {
+    "id": 6698,
+    "name": "Profane Hydra",
+    "plainDescription": "Cleave\nAttacks deal \nphysical damage\nto nearby enemies.\nHeretical Cleave\nDeal \nphysical damage\naround you.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "18 Lethality",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2850,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Active",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6698.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6698_profanehydra.png"
+  },
+  {
+    "id": 2522,
+    "name": "Actualizer",
+    "plainDescription": "Mana Made Real (0s)\nFor 8 seconds, your mana is Empowered. While Empowered, your spells cost 100% more Mana, you gain increased Ability damage, Shielding, and Healing, and your basic ability cooldowns progress 30% faster.",
+    "statsSummary": [
+      "90 Ability Power",
+      "300 Mana",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2522.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2522_manaactive.png"
+  },
+  {
+    "id": 2503,
+    "name": "Blackfire Torch",
+    "plainDescription": "Baleful Blaze\nDamaging Abilities deals bonus magic damage for 3 seconds.\nBlackfire\nFor each enemy champion, epic and large monster affected by your \nBaleful Blaze\n, gain 4% Ability Power.",
+    "statsSummary": [
+      "80 Ability Power",
+      "600 Mana",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2503.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2503_blackfiretorch64.png"
+  },
+  {
+    "id": 4401,
+    "name": "Force of Nature",
+    "plainDescription": "Steadfast\nGain 70 Magic Resist and 6% bonus Move Speed after taking magic damage from Champions 8 times.",
+    "statsSummary": [
+      "400 Health",
+      "55 Magic Resist",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4401.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4401_tank_t3_forceofnature.png"
+  },
+  {
+    "id": 2523,
+    "name": "Hexoptics C44",
+    "plainDescription": "Magnification\nDeal up to 10% increased damage with Attacks, based on how far away the enemy is (max damage at 500 range).\nArcane Aim\nWhen a champion that you damaged within 3 seconds dies, gain 100 additional attack range for 8 seconds.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "25% Critical Strike Chance"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2523.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2523_adcscope.png"
+  },
+  {
+    "id": 6664,
+    "name": "Hollow Radiance",
+    "plainDescription": "Immolate\nAfter taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds. \nDesolate\nKilling an enemy deals magic damage around them.",
+    "statsSummary": [
+      "400 Health",
+      "40 Magic Resist",
+      "10 Ability Haste",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "Aura",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6664.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6664_hollowradiance.png"
+  },
+  {
+    "id": 4004,
+    "name": "Spectral Cutlass",
+    "plainDescription": "Active - Soul Anchor (0s)\nMark your current location. After 4 seconds, return to that location. You may recast at any point during Soul Anchor's duration to return to your marked location early.",
+    "statsSummary": [
+      "50 Attack Damage",
+      "15 Lethality",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4004.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4004_assassin_t3_spectralcutlass.png"
+  },
+  {
+    "id": 4646,
+    "name": "Stormsurge",
+    "plainDescription": "Stormraider\nDealing 25% of a champion's maximum Health within 2.5s applies \nSquall\nto them.\nSquall\nAfter 2 seconds, deal magic damage. If the target dies before \nSquall\ntriggers, it damages nearby enemies.",
+    "statsSummary": [
+      "90 Ability Power",
+      "15 Magic Penetration",
+      "6% Move Speed"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "GoldPer",
+      "NonbootsMovement",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4646.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4646_stormsurge.png"
+  },
+  {
+    "id": 3068,
+    "name": "Sunfire Aegis",
+    "plainDescription": "Immolate\nAfter taking or dealing damage, deal magic damage per second to nearby enemies for 3 seconds.",
+    "statsSummary": [
+      "350 Health",
+      "50 Armor",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor",
+      "Aura",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3068.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3068_tank_t4_sunfireaegis.png"
+  },
+  {
+    "id": 3179,
+    "name": "Umbral Glaive",
+    "plainDescription": "Nightstalker\nAfter being unseen by enemies briefly, your next attack against a champion deals an additional \ntrue damage\n.\nBlackout\nWhen you are near enemy Stealth Wards and traps, reveal them briefly. While revealing wards, your attacks deal bonus damage to them.",
+    "statsSummary": [
+      "60 Attack Damage",
+      "18 Lethality",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Vision",
+      "CooldownReduction",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3179.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3179_assassin_t3_umbralglaive.png"
+  },
+  {
+    "id": 2502,
+    "name": "Unending Despair",
+    "plainDescription": "Anguish\nEvery 4 seconds while in combat with champions, deal magic damage to nearby enemy champions and heal for 250% of the damage dealt.",
+    "statsSummary": [
+      "400 Health",
+      "50 Armor",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2502.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2502_unendingdespair.png"
+  },
+  {
+    "id": 3091,
+    "name": "Wit's End",
+    "plainDescription": "Fray\nAttacks deal bonus magic damage On-Hit.",
+    "statsSummary": [
+      "50% Attack Speed",
+      "45 Magic Resist",
+      "20% Tenacity"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellBlock",
+      "AttackSpeed",
+      "OnHit",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3091.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3091_fighter_t3_witsend.png"
+  },
+  {
+    "id": 3142,
+    "name": "Youmuu's Ghostblade",
+    "plainDescription": "Haunt\nGain Move Speed while out of combat.\nWraith Step\nGain Move Speed and Ghosting for seconds.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "18 Lethality",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "Active",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3142.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png"
+  },
+  {
+    "id": 6696,
+    "name": "Axiom Arc",
+    "plainDescription": "Flux\nWhen a champion that you damaged within 3 seconds dies, refund some of your Ultimate Ability's total cooldown.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "18 Lethality",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 2750,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "ArmorPenetration",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6696.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6696_axiomarc.png"
+  },
+  {
+    "id": 6655,
+    "name": "Luden's Echo",
+    "plainDescription": "Echo\nDamaging Abilities fire 6 Echoes that deal bonus magic damage to the target and nearby enemies. Remaining Echoes fire on the primary target, dealing 20% damage.",
+    "statsSummary": [
+      "100 Ability Power",
+      "600 Mana",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2750,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6655.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6655_mage_t4_ludenstempest.png"
+  },
+  {
+    "id": 4628,
+    "name": "Horizon Focus",
+    "plainDescription": "Hypershot\nDealing Ability damage to champions at 600 range or greater Reveals them for 6 seconds. \nFocus\nWhen \nHypershot\nis triggered, Reveal all other enemy champions within 1400 range of them for 3 seconds.",
+    "statsSummary": [
+      "75 Ability Power",
+      "25 Ability Haste"
+    ],
+    "priceTotal": 2700,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4628.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4628_mage_t3_horizonfocus.png"
+  },
+  {
+    "id": 3118,
+    "name": "Malignance",
+    "plainDescription": "Scorn\nGain 20 Ultimate Ability Haste.\nHatefog\nDamaging a champion with your Ultimate burns the ground beneath them for 3s, dealing magic damage per second and reducing their Magic Resist.",
+    "statsSummary": [
+      "90 Ability Power",
+      "600 Mana",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2700,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3118.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3118_malignance.png"
+  },
+  {
+    "id": 3143,
+    "name": "Randuin's Omen",
+    "plainDescription": "Resilience\nReceive 30% less damage from Critical Strikes.\nHumility\nSlow nearby enemies by 70% for 2 seconds.",
+    "statsSummary": [
+      "350 Health",
+      "75 Armor"
+    ],
+    "priceTotal": 2700,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor",
+      "Active",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3143.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3143_tank_t3_randuinsomen.png"
+  },
+  {
+    "id": 3065,
+    "name": "Spirit Visage",
+    "plainDescription": "Boundless Vitality\nHeals and Shields on you are increased by 25%.",
+    "statsSummary": [
+      "400 Health",
+      "50 Magic Resist",
+      "10 Ability Haste",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 2700,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "HealthRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3065.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3065_tank_t3_spiritvisage.png"
+  },
+  {
+    "id": 8020,
+    "name": "Abyssal Mask",
+    "plainDescription": "Unmake\nNearby enemy champions take 12% more magic damage.",
+    "statsSummary": [
+      "350 Health",
+      "45 Magic Resist",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "CooldownReduction",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/8020.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/8020_tank_t3_abyssalmask.png"
+  },
+  {
+    "id": 2512,
+    "name": "Fiendhunter Bolts",
+    "plainDescription": "Night Vigil\nGain 30 Ultimate Ability Haste.\nOpening Barrage\nAfter casting your Ultimate, your next 3 basic attacks gain 50% Attack Speed and Critically Strike for 80% of your normal Critical Strike damage for 8 seconds. If an attack would already Critically Strike, instead it deals \n15% bonus true damage\n.",
+    "statsSummary": [
+      "45% Attack Speed",
+      "25% Critical Strike Chance",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2512.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2512_adcallin.png"
+  },
+  {
+    "id": 3152,
+    "name": "Hextech Rocketbelt",
+    "plainDescription": "Supersonic\nDash in target direction, unleashing missiles that deal magic damage.",
+    "statsSummary": [
+      "60 Ability Power",
+      "350 Health",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3152.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.png"
+  },
+  {
+    "id": 6675,
+    "name": "Navori Flickerblade",
+    "plainDescription": "Transcendence\nAttacks reduce Basic Ability cooldowns by 15% of their remaining cooldown.",
+    "statsSummary": [
+      "40% Attack Speed",
+      "25% Critical Strike Chance",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6675.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6675_navoriflickerblade.png"
+  },
+  {
+    "id": 3046,
+    "name": "Phantom Dancer",
+    "plainDescription": "Spectral Waltz\nBecome Ghosted.",
+    "statsSummary": [
+      "65% Attack Speed",
+      "25% Critical Strike Chance",
+      "10% Move Speed"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3046.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3046_marksman_t3_phantomdancer.png"
+  },
+  {
+    "id": 3094,
+    "name": "Rapid Firecannon",
+    "plainDescription": "Sharpshooter\nYour Energized Attack deals 40 bonus magic damage and gains 35% bonus Attack Range.",
+    "statsSummary": [
+      "35% Attack Speed",
+      "25% Critical Strike Chance",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3094.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.png"
+  },
+  {
+    "id": 3085,
+    "name": "Runaan's Hurricane",
+    "plainDescription": "Wind's Fury\nAttacks fire bolts at 2 additional enemies near the target.\nEach bolt deals \nphysical damage\nand applies On-Hit effects.",
+    "statsSummary": [
+      "40% Attack Speed",
+      "25% Critical Strike Chance",
+      "5% Move Speed"
+    ],
+    "priceTotal": 2650,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "OnHit",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3085.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3085_marksman_t3_runaans.png"
+  },
+  {
+    "id": 2525,
+    "name": "Protoplasm Harness",
+    "plainDescription": "Lifeline\n(0s)\nTaking damage that would reduce your Health below 30% causes you to gain maximum Health for 5 seconds, then heal Health over the duration. While regenerating Health, you gain 15% increased Size, 10% Move Speed, and 25% Tenacity.",
+    "statsSummary": [
+      "600 Health",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 2600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "NonbootsMovement",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2525.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2525_tanklifeline.png"
+  },
+  {
+    "id": 6657,
+    "name": "Rod of Ages",
+    "plainDescription": "Timeless\nThis item gains 10 Health, 30 Mana and 3 Ability Power every 60 seconds up to 10 times. Upon reaching max stacks, gain a level.\nEternity\nTaking damage from champions restores 10% of the damage as Mana. \nCasting an ability heals for 25% of Mana spent.",
+    "statsSummary": [
+      "45 Ability Power",
+      "350 Health",
+      "500 Mana"
+    ],
+    "priceTotal": 2600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "SpellDamage",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6657.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6657_mage_t4_rodofages.png"
+  },
+  {
+    "id": 3116,
+    "name": "Rylai's Crystal Scepter",
+    "plainDescription": "Rimefrost\nDamaging Abilities Slow enemies by 30% for 1 second.",
+    "statsSummary": [
+      "65 Ability Power",
+      "400 Health"
+    ],
+    "priceTotal": 2600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "Slow"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3116.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.png"
+  },
+  {
+    "id": 6621,
+    "name": "Dawncore",
+    "plainDescription": "First Light\nGain 2% Heal and Shield Power and 15 Ability Power per 100% Base Mana Regen.",
+    "statsSummary": [
+      "45 Ability Power",
+      "16% Heal and Shield Power",
+      "100% Base Mana Regen"
+    ],
+    "priceTotal": 2500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6621.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6621_dawncore.png"
+  },
+  {
+    "id": 3110,
+    "name": "Frozen Heart",
+    "plainDescription": "Winter's Caress\nReduce the Attack Speed of nearby champions by 20%.",
+    "statsSummary": [
+      "75 Armor",
+      "400 Mana",
+      "20 Ability Haste"
+    ],
+    "priceTotal": 2500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Armor",
+      "Mana",
+      "Aura",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3110.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3110_tank_t3_frozenheart.png"
+  },
+  {
+    "id": 6695,
+    "name": "Serpent's Fang",
+    "plainDescription": "Shield Reaver\nDamaging an enemy champion reduces Shields they gain by % for 3 seconds. \nIf they were not already affected by \nShield Reaver\n, reduce Shields on them by %.",
+    "statsSummary": [
+      "55 Attack Damage",
+      "15 Lethality"
+    ],
+    "priceTotal": 2500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6695.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6695_assassin_t3_serpentsfang.png"
+  },
+  {
+    "id": 3075,
+    "name": "Thornmail",
+    "plainDescription": "Thorns\nWhen struck by an Attack, deal magic damage to the attacker and apply 40% Wounds for 3 seconds if they are a champion.",
+    "statsSummary": [
+      "150 Health",
+      "75 Armor"
+    ],
+    "priceTotal": 2450,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3075.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3075_tank_t3_thornmail.png"
+  },
+  {
+    "id": 4005,
+    "name": "Imperial Mandate",
+    "plainDescription": "Control\nGain 20 Ability Haste for your abilities with Immobilizing effects.\nCommand\nOn Immobilizing an enemy champion, mark them as 7% Vulnerable for 4 seconds.",
+    "statsSummary": [
+      "60 Ability Power",
+      "15 Ability Haste",
+      "150% Base Mana Regen"
+    ],
+    "priceTotal": 2400,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4005.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4005_enchanter_t4_imperialmandate.png"
+  },
+  {
+    "id": 3119,
+    "name": "Winter's Approach",
+    "plainDescription": "Awe\nGain Health.\nManaflow\n(8s, max 4 charges)\nLanding Attacks and Abilities grant 3 max Mana (doubled vs. champions).\nTransforms into Fimbulwinter at 360 max Mana.",
+    "statsSummary": [
+      "550 Health",
+      "500 Mana",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2400,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "Mana",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3119.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3119_wintersapproach.png"
+  },
+  {
+    "id": 2524,
+    "name": "Bandlepipes",
+    "plainDescription": "Fanfare\nSlowing or Immobilizing an enemy champion grants Fanfare for seconds. Fanfare grants you 20 Move Speed. While you have Fanfare, nearby allies, including yourself, gain Attack Speed.",
+    "statsSummary": [
+      "200 Health",
+      "15 Ability Haste",
+      "20 Armor",
+      "20 Magic Resist"
+    ],
+    "priceTotal": 2300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "AttackSpeed",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2524.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2524_tankasaura.png"
+  },
+  {
+    "id": 3109,
+    "name": "Knight's Vow",
+    "plainDescription": "Sacrifice\nWhile near your Worthy ally, take 14% of the damage they receive and heal for 12% of the damage they deal to champions. Pledge (0s)\nDesignate an ally as Worthy.",
+    "statsSummary": [
+      "200 Health",
+      "40 Armor",
+      "10 Ability Haste",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 2300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "Armor",
+      "Aura",
+      "Active",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3109.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3109_tank_t3_knightsvow.png"
+  },
+  {
+    "id": 3222,
+    "name": "Mikael's Blessing",
+    "plainDescription": "Purify\nRemove all crowd control debuffs (excluding Airborne and Suppression) from an ally champion and restore 100 - 250 Health.",
+    "statsSummary": [
+      "250 Health",
+      "100% Base Mana Regen",
+      "12% Heal and Shield Power",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 2300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "Tenacity",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3222.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3222_enchanter_t3_mikaelsblessing.png"
+  },
+  {
+    "id": 3107,
+    "name": "Redemption",
+    "plainDescription": "Intervention\nRestore 150 - 350 Health to allied units and deal \n10% max Health true damage\nto enemy champions after 2.5 seconds.",
+    "statsSummary": [
+      "30 Ability Power",
+      "15 Ability Haste",
+      "100% Base Mana Regen",
+      "10% Heal and Shield Power"
+    ],
+    "priceTotal": 2300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3107.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3107_enchanter_t3_redemption.png"
+  },
+  {
+    "id": 6616,
+    "name": "Staff of Flowing Water",
+    "plainDescription": "Rapids\nHealing or Shielding an ally grants you both 40 Ability Power and 15 Ability Haste for 6 seconds.",
+    "statsSummary": [
+      "35 Ability Power",
+      "10% Heal and Shield Power",
+      "125% Base Mana Regen",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6616.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3744_enchanter_t3_staffofflowingwater.png"
+  },
+  {
+    "id": 2526,
+    "name": "Whispering Circlet",
+    "plainDescription": "Harmony\nGain % Heal and Shield Power.\nManaflow\n(8s, max 5 charges)\nLanding Abilities grants 4 max Mana (doubled vs. champions).\nTransforms into Diadem of Songs at 360 max Mana.",
+    "statsSummary": [
+      "200 Health",
+      "8% Heal and Shield Power",
+      "75% Base Mana Regen",
+      "300 Mana"
+    ],
+    "priceTotal": 2250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2526.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2526_enchantertearbase.png"
+  },
+  {
+    "id": 3504,
+    "name": "Ardent Censer",
+    "plainDescription": "Sanctify\nHealing or Shielding an ally enhances you both for 6 seconds, granting 25% Attack Speed and 20 magic damage On-Hit.",
+    "statsSummary": [
+      "45 Ability Power",
+      "10% Heal and Shield Power",
+      "125% Base Mana Regen",
+      "4% Move Speed"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "AttackSpeed",
+      "SpellDamage",
+      "ManaRegen",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3504.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3504_enchanter_t3_ardentcenser.png"
+  },
+  {
+    "id": 6620,
+    "name": "Echoes of Helia",
+    "plainDescription": "Soul Siphon\nGain 30% of pre-mitigation damage dealt to champions as Soul Charges. Healing or Shielding an ally consumes all \nSoul Charges\nto restore Health.",
+    "statsSummary": [
+      "35 Ability Power",
+      "200 Health",
+      "20 Ability Haste",
+      "125% Base Mana Regen"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6620.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6620_echoes_of_helia.png"
+  },
+  {
+    "id": 3190,
+    "name": "Locket of the Iron Solari",
+    "plainDescription": "Devotion\nGrant nearby allies a 290 - 360 Shield that decays over 2.5 seconds.",
+    "statsSummary": [
+      "200 Health",
+      "30 Armor",
+      "30 Magic Resist",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "Aura",
+      "Active",
+      "MagicResist",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3190.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3190_enchanter_t4_locketofironsolari.png"
+  },
+  {
+    "id": 6617,
+    "name": "Moonstone Renewer",
+    "plainDescription": "Starlit Grace\nHealing or shielding an ally chains the effect to another ally (excluding yourself), healing 30% or shielding 35% of the original amount.",
+    "statsSummary": [
+      "25 Ability Power",
+      "200 Health",
+      "20 Ability Haste",
+      "125% Base Mana Regen"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6617.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.png"
+  },
+  {
+    "id": 2065,
+    "name": "Shurelya's Battlesong",
+    "plainDescription": "Inspiring Speech\nGrant nearby allies 30% Move Speed for 4 seconds.",
+    "statsSummary": [
+      "50 Ability Power",
+      "15 Ability Haste",
+      "4% Move Speed",
+      "125% Base Mana Regen"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen",
+      "Active",
+      "CooldownReduction",
+      "NonbootsMovement",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2065.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png"
+  },
+  {
+    "id": 3050,
+    "name": "Zeke's Convergence",
+    "plainDescription": "Frostfire Tempest\nCasting your Ultimate summons a storm around you for 5 seconds. The storm deals 30 magic damage per second to enemy champions and Slows them by 30%.",
+    "statsSummary": [
+      "300 Health",
+      "25 Armor",
+      "25 Magic Resist",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 2200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Health",
+      "SpellBlock",
+      "Armor",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3050.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3050_enchanter_t3_zekesconvergence.png"
+  },
+  {
+    "id": 4003,
+    "name": "Lifeline",
+    "plainDescription": "Active - Soul Anchor (0s)\nMark your current location. After 4 seconds, return to that location. You may recast at any point during Soul Anchor's duration to return to your marked location early.",
+    "statsSummary": [
+      "25 Attack Damage",
+      "5 Lethality",
+      "4% Move Speed"
+    ],
+    "priceTotal": 1600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "NonbootsMovement",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4003.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4003_assassin_t2_lifeline.png"
+  },
+  {
+    "id": 2420,
+    "name": "Seeker's Armguard",
+    "plainDescription": "Time Stop (Single use)\nEnter Stasis for 2.5 seconds.",
+    "statsSummary": [
+      "40 Ability Power",
+      "25 Armor"
+    ],
+    "priceTotal": 1600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor",
+      "SpellDamage",
+      "Active"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2420.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3191_battlemage_t2_seekersarmguard.png"
+  },
+  {
+    "id": 2421,
+    "name": "Shattered Armguard",
+    "plainDescription": "Shattered Time\nArmguard is broken, but can still be upgraded.\nAfter breaking one Armguard, the shopkeeper will only sell you Shattered Armguard.",
+    "statsSummary": [
+      "40 Ability Power",
+      "25 Armor"
+    ],
+    "priceTotal": 1600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2421.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2420_shatteredarmguard.png"
+  },
+  {
+    "id": 4632,
+    "name": "Verdant Barrier",
+    "plainDescription": "Annul\nGrants a Spell Shield that blocks the next enemy Ability.",
+    "statsSummary": [
+      "40 Ability Power",
+      "25 Magic Resist"
+    ],
+    "priceTotal": 1600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellBlock",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4632.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4632_tank_t2_verdantbarrier.png"
+  },
+  {
+    "id": 3035,
+    "name": "Last Whisper",
+    "plainDescription": "Overcomes enemies with high Armor",
+    "statsSummary": [
+      "20 Attack Damage",
+      "18% Armor Penetration"
+    ],
+    "priceTotal": 1450,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "ArmorPenetration",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3035.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3035_marksman_t2_lastwhisper.png"
+  },
+  {
+    "id": 2020,
+    "name": "The Brutalizer",
+    "plainDescription": "",
+    "statsSummary": [
+      "25 Attack Damage",
+      "10 Ability Haste",
+      "5 Lethality"
+    ],
+    "priceTotal": 1337,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "CooldownReduction",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2020.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2020_thebrutalizer.png"
+  },
+  {
+    "id": 1038,
+    "name": "B. F. Sword",
+    "plainDescription": "Greatly increases Attack Damage",
+    "statsSummary": [
+      "40 Attack Damage"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1038.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1038_marksman_t1_bfsword.png"
+  },
+  {
+    "id": 3803,
+    "name": "Catalyst of Aeons",
+    "plainDescription": "Eternity\nRestores 10% of the damage taken from champions as Mana. \nCasting an Ability heals for 25% of Mana spent.",
+    "statsSummary": [
+      "300 Health",
+      "375 Mana"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3803.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3803_mage_t2_catalystofaeons.png"
+  },
+  {
+    "id": 3147,
+    "name": "Haunting Guise",
+    "plainDescription": "Madness\nFor each second in combat with enemy champions, deal 2% bonus damage, up to 6%.",
+    "statsSummary": [
+      "30 Ability Power",
+      "200 Health"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3147.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3147_hauntingguise.png"
+  },
+  {
+    "id": 3155,
+    "name": "Hexdrinker",
+    "plainDescription": "Lifeline\nTaking magic damage that would reduce your Health below 30% grants a magic damage Shield for 2.5 seconds.",
+    "statsSummary": [
+      "25 Attack Damage",
+      "25 Magic Resist"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3155.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3155_fighter_t2_hexdrinker.png"
+  },
+  {
+    "id": 6670,
+    "name": "Noonquiver",
+    "plainDescription": "",
+    "statsSummary": [
+      "15 Attack Damage",
+      "20% Critical Strike Chance"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6670.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6670_marksman_t2_noonquiver.png"
+  },
+  {
+    "id": 3140,
+    "name": "Quicksilver Sash",
+    "plainDescription": "Quicksilver\nRemove all crowd control debuffs (excluding Airborne).",
+    "statsSummary": [
+      "30 Magic Resist"
+    ],
+    "priceTotal": 1300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Active",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3140.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3140_marksman_t2_quicksilversash.png"
+  },
+  {
+    "id": 3111,
+    "name": "Mercury's Treads",
+    "plainDescription": "Increases Move Speed and reduces duration of disabling effects",
+    "statsSummary": [
+      "20 Magic Resist",
+      "45 Move Speed",
+      "30% Tenacity"
+    ],
+    "priceTotal": 1250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Boots",
+      "SpellBlock",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3111.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3111_class_t2_mercurystreads.png"
+  },
+  {
+    "id": 3211,
+    "name": "Spectre's Cowl",
+    "plainDescription": "Improves defense and grants regeneration upon being damaged",
+    "statsSummary": [
+      "200 Health",
+      "35 Magic Resist",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 1250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3211.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3211_tank_t2_spectrescowl.png"
+  },
+  {
+    "id": 3051,
+    "name": "Hearthbound Axe",
+    "plainDescription": "",
+    "statsSummary": [
+      "20 Attack Damage",
+      "20% Attack Speed"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3051.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3051_fighter_t2_axeofavarosa.png"
+  },
+  {
+    "id": 3802,
+    "name": "Lost Chapter",
+    "plainDescription": "Enlighten\nLevelling up restores 20% max Mana over 3 seconds.",
+    "statsSummary": [
+      "40 Ability Power",
+      "300 Mana",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage",
+      "Mana",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3802.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3802_mage_tier2_lostchapter.png"
+  },
+  {
+    "id": 1058,
+    "name": "Needlessly Large Rod",
+    "plainDescription": "Greatly increases Ability Power",
+    "statsSummary": [
+      "65 Ability Power"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1058.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1058_mage_t1_largerod.png"
+  },
+  {
+    "id": 3047,
+    "name": "Plated Steelcaps",
+    "plainDescription": "Plating\nReduces incoming damage from Attacks by 10%.",
+    "statsSummary": [
+      "25 Armor",
+      "45 Move Speed"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Armor",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3047.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3047_class_t2_ninjatabi.png"
+  },
+  {
+    "id": 3077,
+    "name": "Tiamat",
+    "plainDescription": "Cleave\nAttacks deal \nphysical damage\nto nearby enemies.\nCrescent\nDeal \nphysical damage\nto enemies around you.",
+    "statsSummary": [
+      "25 Attack Damage"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3077.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3077_fighter_t2_tiamat.png"
+  },
+  {
+    "id": 3086,
+    "name": "Zeal",
+    "plainDescription": "Slight bonuses to Critical Strike Chance, Move Speed and Attack Speed",
+    "statsSummary": [
+      "15% Attack Speed",
+      "15% Critical Strike Chance",
+      "4% Move Speed"
+    ],
+    "priceTotal": 1200,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "CriticalStrike",
+      "AttackSpeed",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3086.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3086_fighter_t2_zeal.png"
+  },
+  {
+    "id": 2021,
+    "name": "Tunneler",
+    "plainDescription": "",
+    "statsSummary": [
+      "15 Attack Damage",
+      "250 Health"
+    ],
+    "priceTotal": 1150,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2021.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2012_tunneler.png"
+  },
+  {
+    "id": 3006,
+    "name": "Berserker's Greaves",
+    "plainDescription": "Enhances Move Speed and Attack Speed",
+    "statsSummary": [
+      "30% Attack Speed",
+      "45 Move Speed"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "AttackSpeed",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3006.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3006_class_t2_berserkersgreaves.png"
+  },
+  {
+    "id": 4630,
+    "name": "Blighting Jewel",
+    "plainDescription": "",
+    "statsSummary": [
+      "25 Ability Power",
+      "13% Magic Penetration"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "MagicPenetration",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4630.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4630_mage_t2_voidcrystal.png"
+  },
+  {
+    "id": 3008,
+    "name": "Gluttonous Greaves",
+    "plainDescription": "Slay\nGain 0.6% Omnivamp on Champion takedown, stacking up to 10 times.",
+    "statsSummary": [
+      "45 Move Speed",
+      "4% Omnivamp"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "LifeSteal",
+      "SpellVamp",
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3008.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3008_gluttonousgreaves.png"
+  },
+  {
+    "id": 3145,
+    "name": "Hextech Alternator",
+    "plainDescription": "Revved\nDamaging a champion deals bonus magic damage.",
+    "statsSummary": [
+      "45 Ability Power"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3145.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3145_mage_t2_hextechalternator.png"
+  },
+  {
+    "id": 3044,
+    "name": "Phage",
+    "plainDescription": "Rage\nAttacking grants Move Speed for 2 seconds.",
+    "statsSummary": [
+      "15 Attack Damage",
+      "200 Health"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3044.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3044_fighter_t2_phage.png"
+  },
+  {
+    "id": 3020,
+    "name": "Sorcerer's Shoes",
+    "plainDescription": "Enhances Move Speed and magic damage",
+    "statsSummary": [
+      "12 Magic Penetration",
+      "45 Move Speed"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Boots",
+      "MagicPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3020.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3020_class_t2_sorcerersshoes.png"
+  },
+  {
+    "id": 2019,
+    "name": "Steel Sigil",
+    "plainDescription": "",
+    "statsSummary": [
+      "15 Attack Damage",
+      "30 Armor"
+    ],
+    "priceTotal": 1100,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor",
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2019.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2019_steel_sigil.png"
+  },
+  {
+    "id": 3133,
+    "name": "Caulfield's Warhammer",
+    "plainDescription": "Attack Damage and Cooldown Reduction",
+    "statsSummary": [
+      "20 Attack Damage",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 1050,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3133.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png"
+  },
+  {
+    "id": 3009,
+    "name": "Boots of Swiftness",
+    "plainDescription": "Fleetfooted\nReduce the effectiveness of Slows by 25%.",
+    "statsSummary": [
+      "55 Move Speed"
+    ],
+    "priceTotal": 1000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3009.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3009_class_t2_bootsofswiftness.png"
+  },
+  {
+    "id": 3134,
+    "name": "Serrated Dirk",
+    "plainDescription": "Increases Attack Damage and Lethality",
+    "statsSummary": [
+      "20 Attack Damage",
+      "10 Lethality"
+    ],
+    "priceTotal": 1000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "ArmorPenetration"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3134.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3134_assassin_t2_serrateddirk.png"
+  },
+  {
+    "id": 3082,
+    "name": "Warden's Mail",
+    "plainDescription": "Rock Solid\nReduce incoming damage from Attacks.",
+    "statsSummary": [
+      "40 Armor"
+    ],
+    "priceTotal": 1000,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3082.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3082_tank_t2_wardensmail.png"
+  },
+  {
+    "id": 3177,
+    "name": "Guardian's Blade",
+    "plainDescription": "Good starting item for attackers",
+    "statsSummary": [
+      "30 Attack Damage",
+      "150 Health",
+      "15 Ability Haste"
+    ],
+    "priceTotal": 950,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Damage",
+      "Lane",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3177.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardiansblade.png"
+  },
+  {
+    "id": 3184,
+    "name": "Guardian's Hammer",
+    "plainDescription": "Good starting item for attackers",
+    "statsSummary": [
+      "25 Attack Damage",
+      "150 Health",
+      "5% Life Steal"
+    ],
+    "priceTotal": 950,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Damage",
+      "LifeSteal",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3184.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3177_aram_t1_guardianshammer.png"
+  },
+  {
+    "id": 2051,
+    "name": "Guardian's Horn",
+    "plainDescription": "Recovery:\nRestores 20 Health every 5 seconds.\nUndaunted:\nBlocks 15 damage from attacks and spells from champions (25% effectiveness vs. damage over time abilities).",
+    "statsSummary": [
+      "150 Health"
+    ],
+    "priceTotal": 950,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "HealthRegen",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2051.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2051_aram_t1_guardianshorn.png"
+  },
+  {
+    "id": 3112,
+    "name": "Guardian's Orb",
+    "plainDescription": "Recovery:\nRestores 10 Mana every 5 seconds. If you can't gain mana, restores 15 Health instead.",
+    "statsSummary": [
+      "50 Ability Power",
+      "150 Health"
+    ],
+    "priceTotal": 950,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "SpellDamage",
+      "ManaRegen",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3112.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3112_aram_t1_guardiansorb.png"
+  },
+  {
+    "id": 3113,
+    "name": "Aether Wisp",
+    "plainDescription": "Increases Ability Power and Move Speed",
+    "statsSummary": [
+      "30 Ability Power",
+      "4% Move Speed"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "NonbootsMovement",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3113.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3113_mage_t2_aetherwisp.png"
+  },
+  {
+    "id": 6660,
+    "name": "Bami's Cinder",
+    "plainDescription": "Immolate\nAfter taking or dealing damage, deal magic damage to nearby enemies for 3 seconds.",
+    "statsSummary": [
+      "150 Health",
+      "5 Ability Haste"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6660.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6660_tank_t2_bamiscinder.png"
+  },
+  {
+    "id": 4642,
+    "name": "Bandleglass Mirror",
+    "plainDescription": "",
+    "statsSummary": [
+      "20 Ability Power",
+      "100% Base Mana Regen",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage",
+      "ManaRegen",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/4642.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png"
+  },
+  {
+    "id": 2508,
+    "name": "Fated Ashes",
+    "plainDescription": "Inflame\nDamaging Abilities deal 15 bonus magic damage over 3 seconds.\nDeals an additional 45 magic damage to monsters.",
+    "statsSummary": [
+      "30 Ability Power"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2508.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2508_fatedashes64.png"
+  },
+  {
+    "id": 1011,
+    "name": "Giant's Belt",
+    "plainDescription": "Greatly increases Health",
+    "statsSummary": [
+      "350 Health"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1011.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1011_class_t2_giantsbelt.png"
+  },
+  {
+    "id": 3024,
+    "name": "Glacial Buckler",
+    "plainDescription": "Increases Armor and Cooldown Reduction",
+    "statsSummary": [
+      "25 Armor",
+      "300 Mana",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor",
+      "Mana",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3024.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3024_tank_t2_glacialshroud.png"
+  },
+  {
+    "id": 3158,
+    "name": "Ionian Boots of Lucidity",
+    "plainDescription": "Ionian Insight\nGain 10 Summoner Spell Haste.",
+    "statsSummary": [
+      "10 Ability Haste",
+      "45 Move Speed"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": true,
+    "categories": [
+      "Boots",
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3158.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png"
+  },
+  {
+    "id": 3057,
+    "name": "Sheen",
+    "plainDescription": "Spellblade\nAfter using an Ability, your next Attack deals \nbonus physical damage\nOn-Hit.",
+    "statsSummary": [
+      "10 Ability Haste"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "OnHit",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3057.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3057_fighter_t2_sheen.png"
+  },
+  {
+    "id": 1053,
+    "name": "Vampiric Scepter",
+    "plainDescription": "Basic attacks restore Health",
+    "statsSummary": [
+      "15 Attack Damage",
+      "7% Life Steal"
+    ],
+    "priceTotal": 900,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "LifeSteal"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1053.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png"
+  },
+  {
+    "id": 1037,
+    "name": "Pickaxe",
+    "plainDescription": "Moderately increases Attack Damage",
+    "statsSummary": [
+      "25 Attack Damage"
+    ],
+    "priceTotal": 875,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1037.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1037_class_t1_pickaxe.png"
+  },
+  {
+    "id": 1026,
+    "name": "Blasting Wand",
+    "plainDescription": "Moderately increases Ability Power",
+    "statsSummary": [
+      "45 Ability Power"
+    ],
+    "priceTotal": 850,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1026.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1026_mage_t1_blastingwand.png"
+  },
+  {
+    "id": 3108,
+    "name": "Fiendish Codex",
+    "plainDescription": "Increases Ability Power and Cooldown Reduction",
+    "statsSummary": [
+      "25 Ability Power",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 850,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3108.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3108_mage_t2_fiendishcodex.png"
+  },
+  {
+    "id": 1057,
+    "name": "Negatron Cloak",
+    "plainDescription": "Moderately increases Magic Resist",
+    "statsSummary": [
+      "45 Magic Resist"
+    ],
+    "priceTotal": 850,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1057.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1057_tank_t2_negatroncloak.png"
+  },
+  {
+    "id": 3076,
+    "name": "Bramble Vest",
+    "plainDescription": "Thorns\nWhen hit by an Attack, deal magic damage to the attacker and apply 40% Wounds for 3 seconds if they are a champion.",
+    "statsSummary": [
+      "30 Armor"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3076.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3076_tank_t2_bramblevest.png"
+  },
+  {
+    "id": 1031,
+    "name": "Chain Vest",
+    "plainDescription": "Greatly increases Armor",
+    "statsSummary": [
+      "40 Armor"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1031.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1031_base_t2_chainvest.png"
+  },
+  {
+    "id": 3801,
+    "name": "Crystalline Bracer",
+    "plainDescription": "Grants Health and Health Regen",
+    "statsSummary": [
+      "200 Health",
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3801.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3801_tank_t2_crystallinebracer.png"
+  },
+  {
+    "id": 3123,
+    "name": "Executioner's Calling",
+    "plainDescription": "Grievous Wounds\nDealing physical damage to champions applies 40% Wounds for 3 seconds.",
+    "statsSummary": [
+      "15 Attack Damage"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3123.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3123_fighter_t2_executionerscalling.png"
+  },
+  {
+    "id": 3067,
+    "name": "Kindlegem",
+    "plainDescription": "Increases Health and Cooldown Reduction",
+    "statsSummary": [
+      "200 Health",
+      "10 Ability Haste"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "CooldownReduction",
+      "AbilityHaste"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3067.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3067_tank_t1_kindlegem.png"
+  },
+  {
+    "id": 3916,
+    "name": "Oblivion Orb",
+    "plainDescription": "Grievous Wounds\nDealing magic damage to champions applies 40% Wounds for 3 seconds.",
+    "statsSummary": [
+      "25 Ability Power"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3916.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3916_mage_t2_oblivionorb.png"
+  },
+  {
+    "id": 3066,
+    "name": "Winged Moonplate",
+    "plainDescription": "",
+    "statsSummary": [
+      "200 Health",
+      "4% Move Speed"
+    ],
+    "priceTotal": 800,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3066.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3066_tank_t3_wingedmoonplate.png"
+  },
+  {
+    "id": 6690,
+    "name": "Rectrix",
+    "plainDescription": "",
+    "statsSummary": [
+      "15 Attack Damage",
+      "4% Move Speed"
+    ],
+    "priceTotal": 775,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "NonbootsMovement"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/6690.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/6690_rectrix.png"
+  },
+  {
+    "id": 1043,
+    "name": "Recurve Bow",
+    "plainDescription": "Sting\nAttacks deal \n15 bonus physical damage\nOn-Hit.",
+    "statsSummary": [
+      "15% Attack Speed"
+    ],
+    "priceTotal": 700,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "AttackSpeed",
+      "OnHit"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1043.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1043_base_t2_recurvebow.png"
+  },
+  {
+    "id": 1018,
+    "name": "Cloak of Agility",
+    "plainDescription": "Increases critical strike chance",
+    "statsSummary": [
+      "15% Critical Strike Chance"
+    ],
+    "priceTotal": 600,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "CriticalStrike"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1018.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1018_base_t1_cloakagility.png"
+  },
+  {
+    "id": 3114,
+    "name": "Forbidden Idol",
+    "plainDescription": "Increases Heal and Shield Power, Mana Regeneration, and Cooldown Reduction",
+    "statsSummary": [
+      "50% Base Mana Regen",
+      "8% Heal and Shield Power"
+    ],
+    "priceTotal": 600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3114.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3114_mage_t2_forbiddenidol.png"
+  },
+  {
+    "id": 3144,
+    "name": "Scout's Slingshot",
+    "plainDescription": "Bullseye\nDamaging a champion deals bonus magic damage. \nAttacks reduce this cooldown by 1 second.",
+    "statsSummary": [
+      "20% Attack Speed"
+    ],
+    "priceTotal": 600,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3144.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3144_scoutslingshot.png"
+  },
+  {
+    "id": 2138,
+    "name": "Elixir of Iron",
+    "plainDescription": "Consume\nGrants 300 Health, 25% Tenacity and increased size for 3 minutes. While active, you leave a path behind that boosts allied champions' Move Speed by 15%.",
+    "statsSummary": [],
+    "priceTotal": 500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health",
+      "Consumable",
+      "NonbootsMovement",
+      "Tenacity"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2138.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2138_class_elixirofiron.png"
+  },
+  {
+    "id": 2139,
+    "name": "Elixir of Sorcery",
+    "plainDescription": "Consume\nGrants 50 Ability Power and 15% Mana Regen for 3 minutes. While active, damaging a champion or turret deals \n25 bonus true damage\n( 5s against champions).",
+    "statsSummary": [],
+    "priceTotal": 500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Consumable",
+      "ManaRegen",
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2139.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2139_class_t1_elixirofsorcery.png"
+  },
+  {
+    "id": 2140,
+    "name": "Elixir of Wrath",
+    "plainDescription": "Consume\nGrants 30 Attack Damage and \n12% Physical Vamp\nagainst champions for 3 minutes.",
+    "statsSummary": [],
+    "priceTotal": 500,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Consumable",
+      "Damage",
+      "LifeSteal",
+      "SpellVamp"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2140.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2140_class_t0_elixirofwrath.png"
+  },
+  {
+    "id": 1052,
+    "name": "Amplifying Tome",
+    "plainDescription": "Slightly increases Ability Power",
+    "statsSummary": [
+      "20 Ability Power"
+    ],
+    "priceTotal": 400,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellDamage"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1052.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1052_mage_t2_amptome.png"
+  },
+  {
+    "id": 1033,
+    "name": "Null-Magic Mantle",
+    "plainDescription": "Slightly increases Magic Resist",
+    "statsSummary": [
+      "20 Magic Resist"
+    ],
+    "priceTotal": 400,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "SpellBlock"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1033.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1033_base_t1_magicmantle.png"
+  },
+  {
+    "id": 1028,
+    "name": "Ruby Crystal",
+    "plainDescription": "Increases Health",
+    "statsSummary": [
+      "150 Health"
+    ],
+    "priceTotal": 400,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Health"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1028.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1028_base_t1_rubycrystal.png"
+  },
+  {
+    "id": 3070,
+    "name": "Tear of the Goddess",
+    "plainDescription": "Manaflow\n(8s, max 4 charges)\nLanding Abilities grants 3 max Mana (doubled vs. champions), up to 360.\nHelping Hand\nAttacks deal an additional \n5 physical damage\nto minions.",
+    "statsSummary": [
+      "240 Mana"
+    ],
+    "priceTotal": 400,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Mana",
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3070.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3070_all_t1_tearofthegoddess.png"
+  },
+  {
+    "id": 1036,
+    "name": "Long Sword",
+    "plainDescription": "Slightly increases Attack Damage",
+    "statsSummary": [
+      "10 Attack Damage"
+    ],
+    "priceTotal": 350,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "Lane"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1036.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1036_class_t1_longsword.png"
+  },
+  {
+    "id": 1001,
+    "name": "Boots",
+    "plainDescription": "Slightly increases Move Speed",
+    "statsSummary": [
+      "25 Move Speed"
+    ],
+    "priceTotal": 300,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": true,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Boots"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1001.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1001_class_t1_bootsofspeed.png"
+  },
+  {
+    "id": 2141,
+    "name": "Cappa Juice",
+    "plainDescription": "Helps you get on a head. Active - Consume: This juice does nothing.",
+    "statsSummary": [],
+    "priceTotal": 300,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Damage",
+      "Consumable"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2141.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/icon_item_souljuice_funhat.png"
+  },
+  {
+    "id": 1029,
+    "name": "Cloth Armor",
+    "plainDescription": "Slightly increases Armor",
+    "statsSummary": [
+      "15 Armor"
+    ],
+    "priceTotal": 300,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Armor"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1029.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1029_base_t1_clotharmor.png"
+  },
+  {
+    "id": 1006,
+    "name": "Rejuvenation Bead",
+    "plainDescription": "Slightly increases Health Regen",
+    "statsSummary": [
+      "100% Base Health Regen"
+    ],
+    "priceTotal": 300,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "HealthRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1006.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1006_tank_t1_rejuvenationbead.png"
+  },
+  {
+    "id": 1027,
+    "name": "Sapphire Crystal",
+    "plainDescription": "Increases Mana",
+    "statsSummary": [
+      "300 Mana"
+    ],
+    "priceTotal": 300,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Mana"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1027.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1027_base_t1_saphirecrystal.png"
+  },
+  {
+    "id": 1042,
+    "name": "Dagger",
+    "plainDescription": "Slightly increases Attack Speed",
+    "statsSummary": [
+      "10% Attack Speed"
+    ],
+    "priceTotal": 250,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "AttackSpeed"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1042.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1042_base_t1_dagger.png"
+  },
+  {
+    "id": 2022,
+    "name": "Glowing Mote",
+    "plainDescription": "",
+    "statsSummary": [
+      "5 Ability Haste"
+    ],
+    "priceTotal": 250,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "CooldownReduction"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2022.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2022_glowingmote.png"
+  },
+  {
+    "id": 1004,
+    "name": "Faerie Charm",
+    "plainDescription": "Slightly increases Mana Regen",
+    "statsSummary": [
+      "50% Base Mana Regen"
+    ],
+    "priceTotal": 200,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "ManaRegen"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/1004.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/1004_class_t1_faeriecharm.png"
+  },
+  {
+    "id": 2031,
+    "name": "Refillable Potion",
+    "plainDescription": "Active (2 charges)\nRestores 100 Health over 12 seconds. \nRefills upon visiting the shop.",
+    "statsSummary": [],
+    "priceTotal": 150,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "HealthRegen",
+      "Consumable",
+      "Active",
+      "Lane",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2031.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2031_class_t1_refillablepotion.png"
+  },
+  {
+    "id": 2003,
+    "name": "Health Potion",
+    "plainDescription": "Consume\nRestores 120 Health over 15 seconds.",
+    "statsSummary": [],
+    "priceTotal": 50,
+    "inStore": true,
+    "isStarter": true,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "HealthRegen",
+      "Consumable",
+      "Lane",
+      "Jungle"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/2003.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/2003_class_t1_healthpotion.png"
+  },
+  {
+    "id": 3600,
+    "name": "Kalista's Black Spear",
+    "plainDescription": "Active - Consume: Bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another.\nRequired to use Kalista's Ultimate Ability.",
+    "statsSummary": [],
+    "priceTotal": 0,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Consumable"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3600.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3600_champ_t0_blackspear.png"
+  },
+  {
+    "id": 3599,
+    "name": "Kalista's Black Spear",
+    "plainDescription": "Active - Consume: Bind with an ally for the remainder of the game, becoming Oathsworn Allies. Oathsworn empowers you both while near one another.",
+    "statsSummary": [],
+    "priceTotal": 0,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Consumable"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3599.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/3599_kalistapassiveitem.png"
+  },
+  {
+    "id": 3330,
+    "name": "Scarecrow Effigy",
+    "plainDescription": "Cannot be sold\nActive - Trinket: Places an effigy that lasts for seconds and appears exactly as Fiddlesticks does to enemies. Stores one charge every seconds, up to maximum 2 charges.\nEnemy champions approaching an effigy will activate it, causing the effigy to fake a random action, after which the effigy will fall apart.",
+    "statsSummary": [],
+    "priceTotal": 0,
+    "inStore": true,
+    "isStarter": false,
+    "isBoots": false,
+    "isMayhemExclusive": false,
+    "isCompleted": false,
+    "categories": [
+      "Active",
+      "Jungle",
+      "Lane",
+      "Trinket",
+      "Vision"
+    ],
+    "iconUrl": "https://ddragon.leagueoflegends.com/cdn/16.22.1/img/item/3330.png",
+    "fallbackIconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/items/icons2d/fiddlestickstrinket1.png"
+  }
+]

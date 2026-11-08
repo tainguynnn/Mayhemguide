@@ -1,0 +1,128 @@
+[
+  {
+    "id": 5008,
+    "name": "Adaptive Force",
+    "viName": "Sức mạnh Thích ứng",
+    "shortDesc": "+9 Adaptive Force",
+    "viShortDesc": "+9 Sức mạnh Thích ứng",
+    "slot": "Offensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsadaptiveforceicon.png"
+  },
+  {
+    "id": 5005,
+    "name": "Attack Speed",
+    "viName": "Tốc độ Đánh",
+    "shortDesc": "+10% Attack Speed",
+    "viShortDesc": "+10% Tốc độ Đánh",
+    "slot": "Offensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsattackspeedicon.png"
+  },
+  {
+    "id": 5007,
+    "name": "Ability Haste",
+    "viName": "Điểm hồi Kỹ năng",
+    "shortDesc": "+8 Ability Haste",
+    "viShortDesc": "+8 Điểm hồi Kỹ năng",
+    "slot": "Offensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodscdrscalingicon.png"
+  },
+  {
+    "id": 5008,
+    "name": "Adaptive Force",
+    "viName": "Sức mạnh Thích ứng",
+    "shortDesc": "+9 Adaptive Force",
+    "viShortDesc": "+9 Sức mạnh Thích ứng",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsadaptiveforceicon.png"
+  },
+  {
+    "id": 5010,
+    "name": "Move Speed",
+    "viName": "Tốc độ Di chuyển",
+    "shortDesc": "+2% Move Speed",
+    "viShortDesc": "+2% Tốc độ Di chuyển",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsmovementspeedicon.png"
+  },
+  {
+    "id": 5001,
+    "name": "Health Scaling",
+    "viName": "Máu theo cấp",
+    "shortDesc": "+10-180 Health (based on level)",
+    "viShortDesc": "+10-180 Máu (theo cấp)",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodshealthplusicon.png"
+  },
+  {
+    "id": 5011,
+    "name": "Health",
+    "viName": "Máu cơ bản",
+    "shortDesc": "+65 Health",
+    "viShortDesc": "+65 Máu cơ bản",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodshealthscalingicon.png"
+  },
+  {
+    "id": 5002,
+    "name": "Armor",
+    "viName": "Giáp",
+    "shortDesc": "+6 Armor",
+    "viShortDesc": "+6 Giáp",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsarmoricon.png"
+  },
+  {
+    "id": 5003,
+    "name": "Magic Resist",
+    "viName": "Kháng Phép",
+    "shortDesc": "+8 Magic Resist",
+    "viShortDesc": "+8 Kháng Phép",
+    "slot": "Flex",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsmagicresicon.png"
+  },
+  {
+    "id": 5011,
+    "name": "Health",
+    "viName": "Máu cơ bản",
+    "shortDesc": "+65 Health",
+    "viShortDesc": "+65 Máu cơ bản",
+    "slot": "Defensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodshealthscalingicon.png"
+  },
+  {
+    "id": 5013,
+    "name": "Tenacity and Slow Resist",
+    "viName": "Kháng Hiệu ứng & Làm chậm",
+    "shortDesc": "+10% Tenacity & Slow Resist",
+    "viShortDesc": "+10% Kháng Hiệu ứng & Làm chậm",
+    "slot": "Defensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodstenacityicon.png"
+  },
+  {
+    "id": 5001,
+    "name": "Health Scaling",
+    "viName": "Máu theo cấp",
+    "shortDesc": "+10-180 Health (based on level)",
+    "viShortDesc": "+10-180 Máu (theo cấp)",
+    "slot": "Defensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodshealthplusicon.png"
+  },
+  {
+    "id": 5002,
+    "name": "Armor",
+    "viName": "Giáp",
+    "shortDesc": "+6 Armor",
+    "viShortDesc": "+6 Giáp",
+    "slot": "Defensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsarmoricon.png"
+  },
+  {
+    "id": 5003,
+    "name": "Magic Resist",
+    "viName": "Kháng Phép",
+    "shortDesc": "+8 Magic Resist",
+    "viShortDesc": "+8 Kháng Phép",
+    "slot": "Defensive",
+    "iconUrl": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perk-images/statmods/statmodsmagicresicon.png"
+  }
+]

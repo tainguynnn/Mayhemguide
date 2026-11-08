@@ -1,0 +1,30 @@
+{
+  "version": "16.22.1",
+  "mode": "ARAM: Mayhem",
+  "updatedAt": "2026-11-08T07:43:48.423Z",
+  "sources": [
+    {
+      "name": "Riot Data Dragon",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.22.1"
+    },
+    {
+      "name": "CommunityDragon (KIWI / Map12)",
+      "url": "https://raw.communitydragon.org/latest/"
+    },
+    {
+      "name": "Official League of Legends Wiki (ARAM:_Mayhem/Augments)",
+      "url": "https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem/Augments"
+    },
+    {
+      "name": "Meraki Analytics Champion Positions",
+      "url": "https://cdn.merakianalytics.com/riot/lol/resources/latest/en-US/champions.json"
+    }
+  ],
+  "counts": {
+    "champions": 173,
+    "augments": 243,
+    "items": 195,
+    "summonerSpells": 9,
+    "statShards": 14
+  }
+}
